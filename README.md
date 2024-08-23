@@ -1,6 +1,6 @@
 # Fundbio
 
-Integrantes del grupo
+Colaboradores del grupo
 - SOLIS DIAZ FRANCCESCA JAZMIN
 - AYALA GARCIA MIRIAM LISBETH
 - BUENO NOGUEIRA JOSE DAVID
