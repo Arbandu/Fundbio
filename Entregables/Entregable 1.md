@@ -14,6 +14,13 @@ En el periodo actual
 |asdasd|asdasd|dsadas|sdasdasda|
 
 Para visualizar el caso clinico completo haga click [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
+
+<div style="text-align: center;">
+    <img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen">
+</div>
+
+
+
 ## Definicion de terminos clave
 
 
