@@ -34,7 +34,7 @@ La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de l
 
 ## Bibliografía
 
-[1][Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024](https://pubmed.ncbi.nlm.nih.gov/38078589/)
+[1][https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
 
 
 
