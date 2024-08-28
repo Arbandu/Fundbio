@@ -30,7 +30,15 @@ La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de l
 
 ## Definicion del problema
 
-## Estado del arte 
+## Estado del arte cientifico 
+
+| **Dispositivo** | **Funcionalidad** | **Imagen de referencia** | 
+|--------------|---------------|--------------|
+| Disopo 1| Texto 1 | imagen | 
+| Dispo 2 | Texto 2 | imagen | 
+| Dispo 3 | Texto 3 | Imagen | 
+| Dispo 4 | Texto 4 | Imagen | 
+No me borren esto porfa
 
 ## Bibliografía
 
