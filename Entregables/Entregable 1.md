@@ -1,7 +1,7 @@
 # ENTREGABLE #1
 
 ## Caso clínico
-||
+|Prevencion|
 
 
 ## Definicion de terminos clave
