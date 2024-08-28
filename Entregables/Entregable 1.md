@@ -7,8 +7,7 @@ En el periodo de ingreso
 |**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
 |--------------|---------------|--------------|-------------|
 |asdasd|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,
-polineuropatía diabética G63.2, con deficiencia de la rodilla y pierna 71.6,
- del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93|dsadas|sdasdasda|
+polineuropatía diabética G63.2; con deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93|dsadas|sdasdasda|
 
 En el periodo actual
 |**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
