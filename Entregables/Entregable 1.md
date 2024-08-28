@@ -10,7 +10,7 @@ En el periodo de ingreso:
 |--------------|---------------|--------------|-------------|
 |asdasd|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,polineuropatía diabética G63.2. Deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacitades a la hora de escribir, bañarse, caminar en terrenos planos, mantener el equilibrio y controlar el pie.|Se preescribe terapia física|sdasdasda|
 
-En el periodo actual:
+En el periodo mas reciente:
 
 |**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
 |--------------|---------------|--------------|-------------|
@@ -22,10 +22,17 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
   <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
 </p>
 
-
-
-
 ## Definicion de terminos clave
+
+-Diabetes Mellitus 
+La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a hiperglucemia.(1)
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/c079e20e-bb8d-460b-907f-7d5e6b431403)
+
 
 
 ## Contexto nacional y mundial
