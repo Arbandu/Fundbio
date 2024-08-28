@@ -13,7 +13,7 @@ En el periodo actual
 |--------------|---------------|--------------|-------------|
 |asdasd|asdasd|dsadas|sdasdasda|
 
-Aca encontrara el caso clinico completo [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
+Para visualizar el caso clinico completo haga click [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
 ## Definicion de terminos clave
 
 
