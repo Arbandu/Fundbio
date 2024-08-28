@@ -18,10 +18,6 @@ En el periodo mas reciente:
 
 Para visualizar el caso clinico completo haga click [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
 
-<p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
-</p>
-
 ## Definicion de terminos clave
 
 -Diabetes Mellitus 
@@ -29,6 +25,10 @@ La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de l
 
 
 ## Contexto nacional y mundial
+
+## Diagrama de Ishikawa
+
+## Definicion del problema
 
 ## Estado del arte 
 
