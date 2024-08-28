@@ -1,6 +1,6 @@
 # Funbio
 
-![portada](ruta/relativa/de/la/imagen)
+![portada](https://github.com/Arbandu/Fundbio/blob/518cc1d79ce635adceca751b0e7cd1fd7d32849b/Imagenes/Imagen%20de%20WhatsApp%202024-08-28%20a%20las%2017.48.48_9a093f02.jpg)
 
 
 
