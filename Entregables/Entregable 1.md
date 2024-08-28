@@ -10,7 +10,7 @@ En el periodo de ingreso:
 En el periodo actual:
 |**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
 |--------------|---------------|--------------|-------------|
-|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5, amputación de miembro inferior derecho BK T2 Z89.5, polineuropatía diabética G63.2. Deficiencia de la pierna 75.6, angiopatía periférica I79.2 y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacidades para escribir, bañarse, caminar en terrenos planos, mantener el equilibrio, controlar el pie y otra discapacidad reletiva a la resistencia (coger, empujar,
+|sdasdasda|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5, amputación de miembro inferior derecho BK T2 Z89.5, polineuropatía diabética G63.2. Deficiencia de la pierna 75.6, angiopatía periférica I79.2 y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacidades para escribir, bañarse, caminar en terrenos planos, mantener el equilibrio, controlar el pie y otra discapacidad reletiva a la resistencia (coger, empujar,
 jalar) 71.8 (4)|Se prescribe cambio de socket debajo de rodilla de resina y pie sach. Se indicó terapia física y ocupacional. Cita de control al término de terapia física.|dsadas|sdasdasda|
 
 Para visualizar el caso clinico completo haga click [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
