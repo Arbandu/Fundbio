@@ -1,5 +1,8 @@
 # ENTREGABLE #1
 
+# Definicion de terminos clave
+# Caso clínico
+# Contexto nacional y mundial
 
 ## Estado del arte científico:
 
