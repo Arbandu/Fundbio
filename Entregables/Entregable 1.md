@@ -1,11 +1,17 @@
 # ENTREGABLE #1
 
 ## Caso clínico
+
+
+En el periodo de ingreso 
 |**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
 |--------------|---------------|--------------|-------------|
 |asdasd|asdasd|dsadas|sdasdasda|
 
-
+En el periodo actual
+|**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
+|--------------|---------------|--------------|-------------|
+|asdasd|asdasd|dsadas|sdasdasda|
 
 ## Definicion de terminos clave
 
