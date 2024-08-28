@@ -1,6 +1,9 @@
 # ENTREGABLE #1
 
 ## Caso clínico
+||
+
+
 ## Definicion de terminos clave
 
 
