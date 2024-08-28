@@ -1,7 +1,10 @@
 # ENTREGABLE #1
 
 ## Caso clínico
-|Prevencion|
+|**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
+|--------------|---------------|--------------|-------------|
+|asdasd|asdasd|dsadas|sdasdasda|
+
 
 
 ## Definicion de terminos clave
