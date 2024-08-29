@@ -18,8 +18,8 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
 </p>
   
- > Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica 
- > Rol: Prototipado Electrónico
+ > Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica <br>
+ > Rol: Prototipado Electrónico <br>
  > Encargada de crear y probar los modelos preliminares del proyecto y los sistemas electrónicos antes de su producción en masa. Esto incluye el diseño de circuitos, el montaje de 
  > prototipados y la programación de los controladores. Además de participar de la Investigación a lo largo del proyecto.
 
@@ -28,6 +28,6 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/71983535b19b8933dee56a6a44b2b73140f1f16a/Imagenes/Diego.jpg" alt="Imagen de Daniela" width="300">
 </p>
 
->Alumno de Ingeniería biomédica con interés en desarrollar códigos que soporten el desarrollo biomédico en el Perú
->Encargado de manufactura digital
->Encargado de la revisión de los planos del dispositivo, además de su impresión.
+>Alumno de Ingeniería biomédica con interés en desarrollar códigos que soporten el desarrollo biomédico en el Perú <br>
+>Encargado de manufactura digital <br>
+>Encargado de la revisión de los planos del dispositivo, además de su impresión.<br>
