@@ -8,7 +8,7 @@
 ## Solis Diaz Franccesca Jazmin
 
 <p align="center">
-  <img src="[https://github.com/Arbandu/Fundbio/blob/390318aeaf045efc20abde42ef7bd4320e4a37a9/Imagenes/Franccesca.jpg" alt="Imagen de Daniela" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/390318aeaf045efc20abde42ef7bd4320e4a37a9/Imagenes/Franccesca.jpg" alt="Imagen de Daniela" width="300">
 </p>
 
 >Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
