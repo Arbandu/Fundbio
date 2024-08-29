@@ -24,7 +24,7 @@
 ## Bueno Nogueira Jose David
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/da8a0a84fbb7b394fb6047836830d433f25c0386/Imagenes/Jose.jpg" alt="Imagen de Jose" width="150">
+  <img src="https://github.com/Arbandu/Fundbio/blob/da8a0a84fbb7b394fb6047836830d433f25c0386/Imagenes/Jose.jpg" alt="Imagen de Jose" width="200">
 </p>
 
 >Coordinador del diseño 3D y redacción.<br>
