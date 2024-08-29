@@ -58,7 +58,7 @@ La mayoria de casos de amputacion en el peru se deben a
 
 | **Dispositivo** | **Funcionalidad** | **Imagen de referencia** | 
 |--------------|---------------|--------------|
-| Protesis below the knee | Las protesis BW son usadas cuando al paciente ha sido amputado del pie, tobillo, y una parte del peroné y la tibia. Suelen ser de tipo no robotizadas y cada una es hecha de acuerdo a las medidas del paciente, desde la toma del molde hasta el laminado y pulido de esta misma. En consecuencia, se tiene en cuenta el punto de vista del usuario con relación a los ajustes, incomodidades, inconformidades, entre otras quejas o descontento que pueda tener el paciente con respecto a su producto fina | (https://lh6.googleusercontent.com/proxy/VnaFbARxFsEnKYLhO75lVYx6y_zkZullofS48nZi2rxuclhjldWUVMocUFrd6YHkzB4-CTiwd4tAEnXmutLPNgV-A5nSBl3HObNVXcl_z-rAk8KA-fj71JZv)| 
+| Protesis below the knee | Las protesis BW son usadas cuando al paciente ha sido amputado del pie, tobillo, y una parte del peroné y la tibia. Suelen ser de tipo no robotizadas y cada una es hecha de acuerdo a las medidas del paciente, desde la toma del molde hasta el laminado y pulido de esta misma. En consecuencia, se tiene en cuenta el punto de vista del usuario con relación a los ajustes, incomodidades, inconformidades, entre otras quejas o descontento que pueda tener el paciente con respecto a su producto fina | [Protesis BW](https://lh6.googleusercontent.com/proxy/VnaFbARxFsEnKYLhO75lVYx6y_zkZullofS48nZi2rxuclhjldWUVMocUFrd6YHkzB4-CTiwd4tAEnXmutLPNgV-A5nSBl3HObNVXcl_z-rAk8KA-fj71JZv)| 
 | Dispo 2 | Texto 2 | imagen | 
 | Dispo 3 | Texto 3 | Imagen | 
 | Dispo 4 | Texto 4 | Imagen | 
