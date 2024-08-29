@@ -20,11 +20,21 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 
 ## Definicion de terminos clave
 
+-Diabetes
+
+
 -Diabetes Mellitus 
 La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a hiperglucemia.[1]
 
+-Amputación
+
+
+-Neuropatia diabetica
+Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [2]
 
 ## Contexto nacional y mundial
+
+
 
 ## Diagrama de Ishikawa
 
@@ -43,6 +53,8 @@ No me borren esto porfa
 ## Bibliografía
 
 [1][https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
+[2][https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
+
 
 
 
