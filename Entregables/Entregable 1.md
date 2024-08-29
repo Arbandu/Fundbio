@@ -4,13 +4,13 @@
 Este caso clínico es de un hombre de 48 años con diabetes mellitus de 13 años, que ha desarrollado polineuropatía diabética y tuvo una amputación por debajo de la rodilla derecha (transtibial) en 2022. El paciente, quien trabaja como odontólogo, presenta dificultades para caminar, mantener el equilibrio y realizar actividades diarias como escribir y bañarse. Utiliza una prótesis en la pierna derecha y un bastón canadiense para movilizarse. Su tratamiento incluye ajustes en la prótesis y terapias físicas y ocupacionales para mejorar su funcionalidad y calidad de vida.
 A continuacion se le mostrara una tabla con los datos contenidos del paciente tanto en el periodo de ingreso como en la ultima revision.
 
-En el periodo de ingreso:
+- En el periodo de ingreso:
 
 |**Diagnostico**|**Tatamiento**|
 |---------------|--------------|
 |Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,polineuropatía diabética G63.2. Deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacitades a la hora de escribir, bañarse, caminar en terrenos planos, mantener el equilibrio y controlar el pie.|Se preescribe terapia física|
 
-En el periodo mas reciente:
+- En el periodo mas reciente:
 
 |**Diagnostico**|**Tatamiento**|
 |---------------|--------------|
