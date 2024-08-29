@@ -21,16 +21,18 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 ## Definicion de terminos clave
 
 - Diabetes
-Enfermedad que ocurre cuando la glucosa o azucar en la sangre es demasiado alta [1]
+  Enfermedad que ocurre cuando la glucosa o azucar en la sangre es demasiado alta [1]
 
-- Diabetes Mellitus 
-La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a hiperglucemia.[2]
+- Diabetes Mellitus
+  La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza
+  como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a
+  hiperglucemia.[2]
 
 - Amputación
-La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3] 
+  La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3] 
 
 - Neuropatia diabetica
-Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [4]
+  Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [4]
 
 ## Contexto nacional y mundial
 
