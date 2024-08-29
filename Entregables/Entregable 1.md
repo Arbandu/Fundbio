@@ -58,7 +58,7 @@ La mayoria de casos de amputacion en el peru se deben a
 
 | **Dispositivo** | **Funcionalidad** | **Imagen de referencia** | 
 |--------------|---------------|--------------|
-| Protesis tipo gancho| Comúnmente no robotizada. El modelo referenciado en este caso, el modelo HELIX3D es utilizado por personas con problemas en la cadera. Tiene un control de resorte y sistema hidráulico de la fase de apoyo e impulsión, además, posee un sistema de movimiento tridimensional de la cadera para compensar la rotación pélvica y ofrece un aspecto natural y simétrico en la marcha. | [Protesis tipo gancho](https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQX68o3nFjkV7C2eXLwm_rGDfU10JGLpDAOlA&s)| 
+| Protesis below the knee | Las protesis BW son usadas cuando al paciente ha sido amputado del pie, tobillo, y una parte del peroné y la tibia. Suelen ser de tipo no robotizadas y cada una es hecha de acuerdo a las medidas del paciente, desde la toma del molde hasta el laminado y pulido de esta misma. En consecuencia, se tiene en cuenta el punto de vista del usuario con relación a los ajustes, incomodidades, inconformidades, entre otras quejas o descontento que pueda tener el paciente con respecto a su producto fina | (https://lh6.googleusercontent.com/proxy/VnaFbARxFsEnKYLhO75lVYx6y_zkZullofS48nZi2rxuclhjldWUVMocUFrd6YHkzB4-CTiwd4tAEnXmutLPNgV-A5nSBl3HObNVXcl_z-rAk8KA-fj71JZv)| 
 | Dispo 2 | Texto 2 | imagen | 
 | Dispo 3 | Texto 3 | Imagen | 
 | Dispo 4 | Texto 4 | Imagen | 
