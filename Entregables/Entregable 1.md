@@ -51,6 +51,10 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 La mayoria de casos de amputacion en el peru se deben a 
 
 ## Diagrama de Ishikawa
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d47c21a07505063f72318a2d632e4ca18cbedea8/Imagenes/Ishikawa.jpg" alt="Diagrama ishikawa">
+</p>  
+
 
 ## Definicion del problema
 
