@@ -8,16 +8,21 @@
 ## Solis Diaz Franccesca Jazmin
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/e128b24e4412accc2cb1680174d8f8fd89b8d66c/Imagenes/Franccesca.jpg" alt="Imagen de Daniela" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
 >Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
 >Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
  el trayecto del curso.<br>
 ## Ayala Garcia Miriam Lisbeth
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
+</p>
+
 ## BUENO NOGUEIRA JOSE DAVID
 ## Solorzano Davila Daniela Alessandra
-## Daniela Alessandra Solórzano Dávila
+
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
 </p>
@@ -29,7 +34,7 @@
 
 ## Ugarte Yupanqui Diego Alberto
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/71983535b19b8933dee56a6a44b2b73140f1f16a/Imagenes/Diego.jpg" alt="Imagen de Daniela" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/71983535b19b8933dee56a6a44b2b73140f1f16a/Imagenes/Diego.jpg" alt="Imagen de Diego" width="300">
 </p>
 
 >Alumno de Ingeniería biomédica con interés en desarrollar códigos que soporten el desarrollo biomédico en el Perú <br>
