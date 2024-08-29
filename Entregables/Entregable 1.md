@@ -36,7 +36,7 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
   "Amputacion por debajo de la rodilla" [4]
 
   <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
+  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
 </p>
   
 
