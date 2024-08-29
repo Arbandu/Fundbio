@@ -25,7 +25,7 @@
 
 ## UGARTE YUPANQUI DIEGO ALBERTO
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/71983535b19b8933dee56a6a44b2b73140f1f16a/Imagenes/Diego.jpg" alt="Imagen de Daniela" width="300">
 </p>
 
 >Alumno de Ingeniería biomédica con interés en desarrollar códigos que soporten el desarrollo biomédico en el Perú
