@@ -13,4 +13,13 @@
 - AYALA GARCIA MIRIAM LISBETH
 - BUENO NOGUEIRA JOSE DAVID
 - SOLORZANO DAVILA DANIELA ALESSANDRA
+- Daniela Alessandra Solórzano Dávila
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
+</p>
+  
+  Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica 
+  Rol: Prototipado Electrónico
+  Encargada de crear y probar los modelos preliminares del proyecto y los sistemas electrónicos antes de su producción en masa. Esto incluye el diseño de circuitos, el montaje de prototipados y la programación de los controladores. Además de participar de la Investigación a lo largo del proyecto.
+
 - UGARTE YUPANQUI DIEGO ALBERTO
