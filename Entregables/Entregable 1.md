@@ -20,10 +20,10 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 
 ## Definicion de terminos clave
 
-- Diabetes
+- Diabetes <br>
   Enfermedad que ocurre cuando la glucosa o azucar en la sangre es demasiado alta [1]
 
-- Diabetes Mellitus
+- Diabetes Mellitus <br>
   La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza
   como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a
   hiperglucemia.[2]
