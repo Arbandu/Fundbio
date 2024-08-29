@@ -22,6 +22,11 @@
 </p>
 
 ## Bueno Nogueira Jose David
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/da8a0a84fbb7b394fb6047836830d433f25c0386/Imagenes/Jose.jpg" alt="Imagen de Jose" width="300">
+</p>
+
 >Coordinador del diseño 3D y redacción.<br>
 >Desarrollar un prototipo el cual se ajuste a las necesidades y supere las expectativas del usuario es mi objetivo del curso. <br>
 
