@@ -14,13 +14,17 @@
 >Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
 >Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
  el trayecto del curso.<br>
+ 
 ## Ayala Garcia Miriam Lisbeth
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/474d1c025232e09576b05dd9f067a160f1ddbbc6/Imagenes/Miriam.jpg" alt="Imagen de Franccesca" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/474d1c025232e09576b05dd9f067a160f1ddbbc6/Imagenes/Miriam.jpg" alt="Imagen de Miriam" width="300">
 </p>
 
-## BUENO NOGUEIRA JOSE DAVID
+## Bueno Nogueira Jose David
+>Coordinador del diseño 3D y redacción.<br>
+>Desarrollar un prototipo el cual se ajuste a las necesidades y supere las expectativas del usuario es mi objetivo del curso. <br>
+
 ## Solorzano Davila Daniela Alessandra
 
 <p align="center">
