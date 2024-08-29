@@ -5,11 +5,15 @@
 
 # Colaboradores del grupo :
 
+## Solis Diaz Franccesca Jazmin
+
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
+  <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
 </p>
 
-## Solis Diaz Franccesca Jazmin
+>Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
+>Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
+ el trayecto del curso.<br>
 ## Ayala Garcia Miriam Lisbeth
 ## BUENO NOGUEIRA JOSE DAVID
 ## Solorzano Davila Daniela Alessandra
