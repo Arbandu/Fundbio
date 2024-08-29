@@ -15,7 +15,7 @@
 - SOLORZANO DAVILA DANIELA ALESSANDRA
 - Daniela Alessandra Solórzano Dávila
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
+  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen" width="300">
 </p>
   
   Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica 
