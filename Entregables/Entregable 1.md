@@ -28,10 +28,15 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
   como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a
   hiperglucemia.[2]
 
-- Amputación
-  La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3] 
+- Amputación <br>
+  La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3]
 
-- Neuropatia diabetica
+- Amputacion Transtibial <br>
+  Amputacion que se realiza a travez de los huesos de la espinilla y el gemelo, entre la rodilla y el tobillo. Tambien es llamada 
+  "Amputacion por debajo de la rodilla"
+  
+
+- Neuropatia diabetica <br>
   Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [4]
 
 ## Contexto nacional y mundial
