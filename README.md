@@ -9,17 +9,18 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
 </p>
 
-- SOLIS DIAZ FRANCCESCA JAZMIN
-- AYALA GARCIA MIRIAM LISBETH
-- BUENO NOGUEIRA JOSE DAVID
-- SOLORZANO DAVILA DANIELA ALESSANDRA
-# Daniela Alessandra Solórzano Dávila
+## SOLIS DIAZ FRANCCESCA JAZMIN
+## AYALA GARCIA MIRIAM LISBETH
+## BUENO NOGUEIRA JOSE DAVID
+## SOLORZANO DAVILA DANIELA ALESSANDRA
+## Daniela Alessandra Solórzano Dávila
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
 </p>
   
-  Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica 
-  Rol: Prototipado Electrónico
-  Encargada de crear y probar los modelos preliminares del proyecto y los sistemas electrónicos antes de su producción en masa. Esto incluye el diseño de circuitos, el montaje de prototipados y la programación de los controladores. Además de participar de la Investigación a lo largo del proyecto.
+ > Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica 
+ > Rol: Prototipado Electrónico
+ > Encargada de crear y probar los modelos preliminares del proyecto y los sistemas electrónicos antes de su producción en masa. Esto incluye el diseño de circuitos, el montaje de 
+ > prototipados y la programación de los controladores. Además de participar de la Investigación a lo largo del proyecto.
 
 - UGARTE YUPANQUI DIEGO ALBERTO
