@@ -6,15 +6,15 @@ A continuacion se le mostrara una tabla con los datos contenidos del paciente ta
 
 En el periodo de ingreso:
 
-|**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
-|--------------|---------------|--------------|-------------|
-|---------------|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,polineuropatía diabética G63.2. Deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacitades a la hora de escribir, bañarse, caminar en terrenos planos, mantener el equilibrio y controlar el pie.|Se preescribe terapia física|-------------|
+|**Diagnostico**|**Tatamiento**|
+|---------------|--------------|
+|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,polineuropatía diabética G63.2. Deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacitades a la hora de escribir, bañarse, caminar en terrenos planos, mantener el equilibrio y controlar el pie.|Se preescribe terapia física|
 
 En el periodo mas reciente:
 
-|**Prevencion**|**Diagnostico**|**Tatamiento**|**Monitoreo**|
-|--------------|---------------|--------------|-------------|
-|---------------|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5, amputación de miembro inferior derecho BK T2 Z89.5, polineuropatía diabética G63.2. Deficiencia de la pierna 75.6, angiopatía periférica I79.2 y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacidades para escribir, bañarse, caminar en terrenos planos, mantener el equilibrio, controlar el pie y otra discapacidad reletiva a la resistencia (coger, empujar,jalar) 71.8 (4)|Se prescribe cambio de socket debajo de rodilla de resina y pie sach. Se indicó terapia física y ocupacional. Cita de control al término de terapia física.|------------|
+|**Diagnostico**|**Tatamiento**|
+|---------------|--------------|
+|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5, amputación de miembro inferior derecho BK T2 Z89.5, polineuropatía diabética G63.2. Deficiencia de la pierna 75.6, angiopatía periférica I79.2 y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacidades para escribir, bañarse, caminar en terrenos planos, mantener el equilibrio, controlar el pie y otra discapacidad reletiva a la resistencia (coger, empujar,jalar) 71.8 (4)|Se prescribe cambio de socket debajo de rodilla de resina y pie sach. Se indicó terapia física y ocupacional. Cita de control al término de terapia física.|
 
 Para visualizar el caso clinico completo haga click [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
 
@@ -31,27 +31,24 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 - Amputación <br>
   La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3]
 
-- Amputacion Transtibial <br>
+- Amputacion Transtibial (BK)<br>
   Amputacion que se realiza a travez de los huesos de la espinilla y el gemelo, entre la rodilla y el tobillo. Tambien es llamada 
   "Amputacion por debajo de la rodilla" [4]
 
   <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
-</p>
-<figure>
-    <img src="[ruta/de/tu/imagen.png](https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg)" alt="Amputacion transtibial">
-    <figcaption>Amputacion trantibial.</figcaption>
-</figure>
-
-
-  
+</p>  
 
 - Neuropatia diabetica <br>
   Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [5]
 
+- Pie equino
+  El pie equino o pie equino varo es una serie de anomalias en el pie presentes desde el nacimiento, en el cual este presenta una forma o 
+  posicion torcida. [6]  
+
 ## Contexto nacional y mundial
 
-
+La mayoria de casos de amputacion en el peru se deben a 
 
 ## Diagrama de Ishikawa
 
@@ -74,6 +71,7 @@ No me borren esto porfa
 - [3] [https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion](https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion)
 - [4] [https://www.ossur.com/es-mx/protesis/information/amputacion-extremidades-inferiores](https://www.ossur.com/es-mx/protesis/information/amputacion-extremidades-inferiores)
 - [5] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
+- [6] Cliinic, M. (2019). Pie equino varo. Mayo Clinic, 1–4. [https://www.ecured.cu/Pie_equino%0Ahttps://www.mayoclinic.org/es-es/diseases-conditions/clubfoot/symptoms-causes/syc-20350860](https://www.ecured.cu/Pie_equino%0Ahttps://www.mayoclinic.org/es-es/diseases-conditions/clubfoot/symptoms-causes/syc-20350860)
 
 
 
