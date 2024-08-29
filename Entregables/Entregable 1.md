@@ -53,7 +53,7 @@ No me borren esto porfa
 ## Bibliografía
 
 - [1]National Library of Medicine. (2024, 1 enero). Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024. [https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
-- [2][https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
+- [2] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
 
 
 
