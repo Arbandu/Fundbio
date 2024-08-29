@@ -17,7 +17,7 @@
 ## Ayala Garcia Miriam Lisbeth
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/474d1c025232e09576b05dd9f067a160f1ddbbc6/Imagenes/Miriam.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
 ## BUENO NOGUEIRA JOSE DAVID
