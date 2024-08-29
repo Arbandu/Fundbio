@@ -13,7 +13,7 @@
 - AYALA GARCIA MIRIAM LISBETH
 - BUENO NOGUEIRA JOSE DAVID
 - SOLORZANO DAVILA DANIELA ALESSANDRA
-- Daniela Alessandra Solórzano Dávila
+# Daniela Alessandra Solórzano Dávila
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
 </p>
