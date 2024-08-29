@@ -74,7 +74,7 @@ La mayoria de casos de amputacion en el peru se deben a
 - [3] «Definición de amputación - Diccionario de cáncer del NCI - NCI». Accedido: 29 de agosto de 2024. [En línea]. Disponible en: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion 
 - [4]  «Tipos y niveles de amputación | Össur». Accedido: 29 de agosto de 2024. [En línea]. Disponible en: https://www.ossur.com/es-mx/protesis/information/amputacion-extremidades-inferiores 
 - [5] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
-- [6] B. Ganesan, A. Luximon, A. Al-Jumaily, S. K. Balasankar, y G. R. Naik, «Ponseti method in the management of clubfoot under 2 years of age: A systematic review», PLoS ONE, vol. 12, n.º 6, p. e0178299, jun. 2017, doi: 10.1371/journal.pone.0178299.(https://www.ecured.cu/Pie_equino%0Ahttps://www.mayoclinic.org/es-es/diseases-conditions/clubfoot/symptoms-causes/syc-20350860)
+- [6] B. Ganesan, A. Luximon, A. Al-Jumaily, S. K. Balasankar, y G. R. Naik, «Ponseti method in the management of clubfoot under 2 years of age: A systematic review», PLoS ONE, vol. 12, n.º 6, p. e0178299, jun. 2017, doi: 10.1371/journal.pone.0178299. https://www.ecured.cu/Pie_equino%0Ahttps://www.mayoclinic.org/es-es/diseases-conditions/clubfoot/symptoms-causes/syc-20350860
 
 
 
