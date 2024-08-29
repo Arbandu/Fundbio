@@ -58,11 +58,10 @@ La mayoria de casos de amputacion en el peru se deben a
 
 | **Dispositivo** | **Funcionalidad** | **Imagen de referencia** | 
 |--------------|---------------|--------------|
-| Disopo 1| Texto 1 | imagen | 
+| Protesis tipo gancho| Comúnmente no robotizada. El modelo referenciado en este caso, el modelo HELIX3D es utilizado por personas con problemas en la cadera. Tiene un control de resorte y sistema hidráulico de la fase de apoyo e impulsión, además, posee un sistema de movimiento tridimensional de la cadera para compensar la rotación pélvica y ofrece un aspecto natural y simétrico en la marcha. | [Protesis tipo gancho](https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQX68o3nFjkV7C2eXLwm_rGDfU10JGLpDAOlA&s)| 
 | Dispo 2 | Texto 2 | imagen | 
 | Dispo 3 | Texto 3 | Imagen | 
 | Dispo 4 | Texto 4 | Imagen | 
-No me borren esto porfa
 
 ## Bibliografía
 
