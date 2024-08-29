@@ -33,11 +33,15 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 
 - Amputacion Transtibial <br>
   Amputacion que se realiza a travez de los huesos de la espinilla y el gemelo, entre la rodilla y el tobillo. Tambien es llamada 
-  "Amputacion por debajo de la rodilla"
+  "Amputacion por debajo de la rodilla" [4]
+
+  <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/567704467d9b14fbd67f72ea167dd56b1b9491d5/Imagenes/descarga.jpeg" alt="Descripción de la imagen">
+</p>
   
 
 - Neuropatia diabetica <br>
-  Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [4]
+  Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [5]
 
 ## Contexto nacional y mundial
 
@@ -62,7 +66,8 @@ No me borren esto porfa
 - [1][https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es)
 - [2] National Library of Medicine. (2024, 1 enero). Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024. [https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
 - [3] [https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion](https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion)
-- [4] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
+- [4] [https://www.ossur.com/es-mx/protesis/information/amputacion-extremidades-inferiores](https://www.ossur.com/es-mx/protesis/information/amputacion-extremidades-inferiores)
+- [5] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
 
 
 
