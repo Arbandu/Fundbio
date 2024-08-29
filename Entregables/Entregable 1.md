@@ -21,16 +21,16 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 ## Definicion de terminos clave
 
 -Diabetes
-
+ENfermedad que ocurre cuando la glucosa o azucar en la sangre es demasiado alta [1]
 
 -Diabetes Mellitus 
-La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a hiperglucemia.[1]
+La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza como fuente de energía y se produce en exceso debido a una gluconeogénesis y glucogenólisis inadecuadas, lo que da lugar a hiperglucemia.[2]
 
 -Amputación
-
+La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3] 
 
 -Neuropatia diabetica
-Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [2]
+Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [4]
 
 ## Contexto nacional y mundial
 
@@ -52,8 +52,10 @@ No me borren esto porfa
 
 ## Bibliografía
 
-- [1]National Library of Medicine. (2024, 1 enero). Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024. [https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
-- [2] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
+- [1][https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es)
+- [2] National Library of Medicine. (2024, 1 enero). Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024. [https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
+- [3] [https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion](https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion)
+- [4] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
 
 
 
