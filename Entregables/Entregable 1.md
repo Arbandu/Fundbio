@@ -57,7 +57,7 @@ La mayoria de casos de amputacion en el peru se deben a
 
 
 ## Definicion del problema
-Falta de mejora en la adaptación de prótesis y la rehabilitación física, agravada por problemas adicionales
+Falta de mejora en la adaptación de prótesis y la rehabilitación física, agravada por problemas adicionales.
 
 ## Estado del arte cientifico 
 
