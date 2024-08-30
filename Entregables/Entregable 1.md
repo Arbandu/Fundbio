@@ -62,9 +62,9 @@ La mayoria de casos de amputacion en el peru se deben a
 
 | **Dispositivo** | **Funcionalidad** | **Imagen de referencia** | 
 |--------------|---------------|--------------|
-| Protesis below the knee | Las protesis BW son usadas cuando al paciente ha sido amputado del pie, tobillo, y una parte del peroné y la tibia. Suelen ser de tipo no robotizadas y cada una es hecha de acuerdo a las medidas del paciente, desde la toma del molde hasta el laminado y pulido de esta misma. En consecuencia, se tiene en cuenta el punto de vista del usuario con relación a los ajustes, incomodidades, inconformidades, entre otras quejas o descontento que pueda tener el paciente con respecto a su producto fina | [Protesis BW](https://lh6.googleusercontent.com/proxy/VnaFbARxFsEnKYLhO75lVYx6y_zkZullofS48nZi2rxuclhjldWUVMocUFrd6YHkzB4-CTiwd4tAEnXmutLPNgV-A5nSBl3HObNVXcl_z-rAk8KA-fj71JZv)| 
-| Dispo 2 | Texto 2 | imagen | 
-| Dispo 3 | Texto 3 | Imagen | 
+| Protesis below the knee | Las protesis BN son usadas cuando al paciente ha sido amputado del pie, tobillo, y una parte del peroné y la tibia. Suelen ser de tipo no robotizadas y cada una es hecha de acuerdo a las medidas del paciente, desde la toma del molde hasta el laminado y pulido de esta misma. En consecuencia, se tiene en cuenta el punto de vista del usuario con relación a los ajustes, incomodidades, inconformidades, entre otras quejas o descontento que pueda tener el paciente con respecto a su producto final | ![Protesis BW](https://lh6.googleusercontent.com/proxy/VnaFbARxFsEnKYLhO75lVYx6y_zkZullofS48nZi2rxuclhjldWUVMocUFrd6YHkzB4-CTiwd4tAEnXmutLPNgV-A5nSBl3HObNVXcl_z-rAk8KA-fj71JZv)| 
+| Protesis de fibra de Carbon | Unido al socket, un tubo de carbón es el encargado de soportar el peso del paciente, este posee alta resistencia y es casi imposible de romperse eventualmente. Lo cual lo hace efectivamente mejor que prótesis exoesqueleticas de otros materiales. A petición del paciente, este puede ser recubierto fácilmente con una capa cosmética para ser ocultado. | imagen | 
+| Prótesis transfemoral basada en redes neuronales. | Con el avance de la tecnología, se han empezado a desarrollar prótesis robóticas capaces de predecir los movimientos del paciente de acuerdo a mediciones de actividad muscular. Actualmente posee un 20% de error de predicción, pero avances se realizan continuamente | Imagen | 
 | Dispo 4 | Texto 4 | Imagen | 
 
 ## Bibliografía
