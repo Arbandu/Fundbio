@@ -1,5 +1,5 @@
 
-![portada](https://github.com/Arbandu/Fundbio/blob/518cc1d79ce635adceca751b0e7cd1fd7d32849b/Imagenes/Imagen%20de%20WhatsApp%202024-08-28%20a%20las%2017.48.48_9a093f02.jpg)
+![portada](https://github.com/Arbandu/Fundbio/blob/f1f91e4d9d3601dfbe0b1c6bcbfa66de23f652a6/Imagenes/caratula.jpg)
 
 # Tematica: Amputado de miembro inferior
 
