@@ -11,8 +11,8 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
->Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
->Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
+> Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
+> Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
  el trayecto del curso.<br>
  
 ## Ayala Garcia Miriam Lisbeth
