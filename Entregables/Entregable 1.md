@@ -48,7 +48,7 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 
 ## Contexto nacional y mundial
 
-La mayoria de casos de amputacion en el peru se deben a 
+
 
 ## Diagrama de Ishikawa
  <p align="center">
