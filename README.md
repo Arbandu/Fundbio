@@ -5,7 +5,7 @@
 
 # Colaboradores del grupo :
 
-## Solis Diaz Franccesca Jazmin
+## Solís Díaz Franccesca Jazmín
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
@@ -30,7 +30,7 @@
 >Coordinador del diseño 3D y redacción.<br>
 >Desarrollar un prototipo el cual se ajuste a las necesidades y supere las expectativas del usuario es mi objetivo del curso. <br>
 
-## Solorzano Davila Daniela Alessandra
+## Solórzano Dávila Daniela Alessandra
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/2635e622c3ec302283b7289f5b0d49f5aa36a6d6/Imagenes/Daniela.jpg" alt="Imagen de Daniela" width="300">
