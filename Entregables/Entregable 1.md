@@ -70,10 +70,10 @@ La mayoria de casos de amputacion en el peru se deben a
 ## Bibliografía
 
 - [1]«¿Qué es la neuropatía diabética? - NIDDK», National Institute of Diabetes and Digestive and Kidney Diseases. Accedido: 29 de agosto de 2024. [En línea]. Disponible en: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es 
-- [2] National Library of Medicine. (2024, 1 enero). Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024. [https://pubmed.ncbi.nlm.nih.gov/38078589/](https://pubmed.ncbi.nlm.nih.gov/38078589/)
+- [2] American Diabetes Association Professional Practice Committee, «2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2024», Diabetes Care, vol. 47, n.º Suppl 1, pp. S20-S42, ene. 2024, doi: 10.2337/dc24-S002.Disponible en: https://pubmed.ncbi.nlm.nih.gov/38078589/
 - [3] «Definición de amputación - Diccionario de cáncer del NCI - NCI». Accedido: 29 de agosto de 2024. [En línea]. Disponible en: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/amputacion 
 - [4]  «Tipos y niveles de amputación | Össur». Accedido: 29 de agosto de 2024. [En línea]. Disponible en: https://www.ossur.com/es-mx/protesis/information/amputacion-extremidades-inferiores 
-- [5] National institute of Diabetes an Digestive and Kidney Diaseases. (2018). Neuropatía diabética. [https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es](https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es)
+- [5] «¿Qué es la neuropatía diabética? - NIDDK», National Institute of Diabetes and Digestive and Kidney Diseases. Accedido: 29 de agosto de 2024. [En línea]. Disponible en: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/neuropatias-diabeticas/que-es 
 - [6] B. Ganesan, A. Luximon, A. Al-Jumaily, S. K. Balasankar, y G. R. Naik, «Ponseti method in the management of clubfoot under 2 years of age: A systematic review», PLoS ONE, vol. 12, n.º 6, p. e0178299, jun. 2017, doi: 10.1371/journal.pone.0178299. https://www.ecured.cu/Pie_equino%0Ahttps://www.mayoclinic.org/es-es/diseases-conditions/clubfoot/symptoms-causes/syc-20350860
 
 
