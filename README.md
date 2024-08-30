@@ -20,6 +20,8 @@
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/474d1c025232e09576b05dd9f067a160f1ddbbc6/Imagenes/Miriam.jpg" alt="Imagen de Miriam" width="300">
 </p>
+>Estudiante de Ingeniería Biomédica con interés en el área de tejidos y biomateriales. <br>
+>Mi rol en el proyecto se basa en el correcto diseño electrónico del prototipo.
 
 ## Bueno Nogueira Jose David
 
