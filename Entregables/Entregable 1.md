@@ -42,7 +42,7 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
 - Neuropatia diabetica <br>
   Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [5]
 
-- Pie equino
+- Pie equino <br>
   El pie equino o pie equino varo es una serie de anomalias en el pie presentes desde el nacimiento, en el cual este presenta una forma o 
   posicion torcida. [6]  
 
