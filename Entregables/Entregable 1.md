@@ -6,22 +6,22 @@ A continuacion se le mostrara una tabla con los datos contenidos del paciente ta
 
 - En el periodo de ingreso:
 
-|**Diagnostico**|**Tatamiento**|
+|**Diagnóstico**|**Tratamiento**|
 |---------------|--------------|
-|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,polineuropatía diabética G63.2. Deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacitades a la hora de escribir, bañarse, caminar en terrenos planos, mantener el equilibrio y controlar el pie.|Se preescribe terapia física|
+|Presenta pies equino adquiridos en garra o zambo adquiridos M21.5,polineuropatía diabética G63.2. Deficiencia de la rodilla y pierna 71.6, del tobillo y pie 71.7, y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacitades a la hora de escribir, bañarse, caminar en terrenos planos, mantener el equilibrio y controlar el pie.|Se preescribe terapia física.|
 
 - En el periodo mas reciente:
 
-|**Diagnostico**|**Tatamiento**|
+|**Diagnóstico**|**Tratamiento**|
 |---------------|--------------|
 |Presenta pies equino adquiridos en garra o zambo adquiridos M21.5, amputación de miembro inferior derecho BK T2 Z89.5, polineuropatía diabética G63.2. Deficiencia de la pierna 75.6, angiopatía periférica I79.2 y otra deficiencia mecánica de las extremidad inferior 71.93. Discapacidades para escribir, bañarse, caminar en terrenos planos, mantener el equilibrio, controlar el pie y otra discapacidad reletiva a la resistencia (coger, empujar,jalar) 71.8 (4)|Se prescribe cambio de socket debajo de rodilla de resina y pie sach. Se indicó terapia física y ocupacional. Cita de control al término de terapia física.|
 
 Para visualizar el caso clinico completo haga click [aqui](https://github.com/Arbandu/Fundbio/blob/42cf946bb611a43ef3c0f3fa9eafecb7187987f6/Caso%20clinico/CASO%20PARA%20EL%20EQUIPO%2015.pdf)
 
-## Definicion de terminos clave
+## Definición de términos clave
 
 - Diabetes <br>
-  Enfermedad que ocurre cuando la glucosa o azucar en la sangre es demasiado alta [1]
+  Enfermedad que ocurre cuando la glucosa o azúcar en la sangre es demasiado alta [1]
 
 - Diabetes Mellitus <br>
   La diabetes mellitus es un grupo de trastornos metabólicos del metabolismo de los carbohidratos en los que la glucosa se subutiliza
@@ -29,22 +29,22 @@ Para visualizar el caso clinico completo haga click [aqui](https://github.com/Ar
   hiperglucemia.[2]
 
 - Amputación <br>
-  La extirpación de un mienbro ya sea brazo o pierna u otra parte del cuerpo mediante crujia, ya sea causado por un truma o lesión.[3]
+  La extirpación de un miembro ya sea brazo o pierna u otra parte del cuerpo mediante cirujía, ya sea causado por un trauma o lesión.[3]
 
-- Amputacion Transtibial (BK)<br>
-  Amputacion que se realiza a travez de los huesos de la espinilla y el gemelo, entre la rodilla y el tobillo. Tambien es llamada 
-  "Amputacion por debajo de la rodilla" [4]
+- Amputación Transtibial (BK)<br>
+  Amputación que se realiza a travéz de los huesos de la espinilla y el gemelo, entre la rodilla y el tobillo. Tambien es llamada 
+  "Amputación por debajo de la rodilla" [4]
 
   <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
 </p>  
 
-- Neuropatia diabetica <br>
-  Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes [5]
+- Neuropatía diabética <br>
+  Conforme a NIH es el daño que se ocasiona en los nervios debido a la diabetes. [5]
 
 - Pie equino <br>
-  El pie equino o pie equino varo es una serie de anomalias en el pie presentes desde el nacimiento, en el cual este presenta una forma o 
-  posicion torcida. [6]  
+  El pie equino o pie equino varo es una serie de anomalías en el pie presentes desde el nacimiento, en el cual este presenta una forma o 
+  posición torcida. [6]  
 
 ## Contexto nacional 
 
@@ -60,7 +60,7 @@ Las amputaciones de miembros inferiores representan un importante desafío de sa
 </p>  
 
 
-## Definicion del problema
+## Definición del problema
 Falta de mejora en la adaptación de prótesis y la rehabilitación física, agravada por problemas adicionales.
 
 ## Estado del arte cientifico 
