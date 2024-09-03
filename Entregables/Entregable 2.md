@@ -4,3 +4,10 @@
 |--------------|--------------|--------------|
 |      Imagen  |      imagen  |      imagen  |
 |  texto       |      texto   |      texto   |
+
+# Lista de requerimientos
+
+
+
+
+# Propuesta de solución
