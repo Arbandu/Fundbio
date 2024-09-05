@@ -3,7 +3,7 @@
 ## Blatchford Elan
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Blatchford elan">
 </p>
 Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resistencia del tobillo en función de las condiciones del terreno y la velocidad del usuario. El Elan proporciona un andar más natural y equilibrado, reduciendo el esfuerzo muscular y mejorando la estabilidad en terrenos irregulares. También ofrece retroalimentación de la actividad del pie, lo que mejora la confianza del usuario al caminar.<br>
 Especificaciones del producto:<br>
