@@ -7,7 +7,7 @@
 </p>
 Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resistencia del tobillo en función de las condiciones del terreno y la velocidad del usuario. El Elan proporciona un andar más natural y equilibrado, reduciendo el esfuerzo muscular y mejorando la estabilidad en terrenos irregulares. También ofrece retroalimentación de la actividad del pie, lo que mejora la confianza del usuario al caminar.[1]<br>
 
-Especificaciones del producto:<br>
+### Especificaciones del producto:<br>
 
 - Tecnología: Control de microprocesador para ajuste dinámico de la resistencia.<br>
 - Peso: 1.25 kg.<br>
