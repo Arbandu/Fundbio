@@ -18,14 +18,16 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 
 # Estado del arte: Patentes de invención
 
-## CN112057214 - Improved below-knee prothesis socket
+## Improved below-knee prothesis socket
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c2b10cd9fad9d7cb041b7fa7baac714bdb77511f/Imagenes/Socked.png" alt="Foto socked" width="300">
 </p>
 
-
+[2]
 # Estado del arte: Patente de modulo de utilidad 
+
+## Unibody endoskeletal transtibial prosthetic devices and digital fabrication workflow
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/cb55c1b59cc76600c66bb9d22a6ee974e0538b57/Imagenes/protesis%203d.jpg" alt="Foto protesis" width="300">
@@ -45,5 +47,5 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 # Bibliografía
 
 [1]https://www.blatchfordmobility.com/en-us/products/feet-ankles/elan/#<br>
-[2]<br>
+[2]https://patentimages.storage.googleapis.com/47/04/f4/b40a7f982425b3/CN112057214A.pdf<br>
 [3]https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf<br>
