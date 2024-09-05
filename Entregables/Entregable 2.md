@@ -18,7 +18,7 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 
 # Estado del arte: Patentes de invención
 
-- CN112057214 - Improved below-knee prothesis socket
+## CN112057214 - Improved below-knee prothesis socket
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c2b10cd9fad9d7cb041b7fa7baac714bdb77511f/Imagenes/Socked.png" alt="Foto socked" width="300">
