@@ -25,6 +25,9 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 
 # Estado del arte: Patente de modulo de utilidad 
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/cb55c1b59cc76600c66bb9d22a6ee974e0538b57/Imagenes/protesis%203d.jpg" alt="Foto protesis" width="300">
+</p>
 
 
 # Lista de requerimientos
