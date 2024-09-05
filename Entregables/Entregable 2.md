@@ -31,6 +31,8 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
   <img src="https://github.com/Arbandu/Fundbio/blob/cb55c1b59cc76600c66bb9d22a6ee974e0538b57/Imagenes/protesis%203d.jpg" alt="Foto protesis" width="300">
 </p>
 
+[3] 
+
 
 # Lista de requerimientos
 
@@ -42,4 +44,6 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 
 # Bibliografía
 
-[1]https://www.blatchfordmobility.com/en-us/products/feet-ankles/elan/#
+[1]https://www.blatchfordmobility.com/en-us/products/feet-ankles/elan/#<br>
+[2]<br>
+[3]https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf<br>
