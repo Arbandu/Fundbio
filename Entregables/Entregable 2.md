@@ -23,7 +23,12 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c2b10cd9fad9d7cb041b7fa7baac714bdb77511f/Imagenes/Socked.png" alt="Foto socked" width="300">
 </p>
-- País : China <br>
+
+Esta patente describe un socked mejorado para prótesis de pierna, diseñado para ser más compatible y cómodo. Incorpora un sistema de varillas articuladas que permiten ajustar el encaje a diferentes tamaños de prótesis. Además, cuenta con placas de compresión y amortiguación con resortes que distribuyen mejor la presión, aumentando el confort.
+El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis de manera segura y personalizada. Está fabricado con materiales ligeros como la resina y polipropileno, e incluye orificios de ventilación para mejorar la transpirabilidad. En resumen, ofrece una solución más cómoda, adaptable y fácil de ajustar para los usuarios de prótesis de pierna. <br>
+
+### Especificaciones
+- País de procedencia: China <br>
 - Fecha de solicitud: 2020-09-30 <br>
 - Fecha de publicación: 2020-12-11 <br>
 
@@ -36,10 +41,13 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/cb55c1b59cc76600c66bb9d22a6ee974e0538b57/Imagenes/protesis%203d.jpg" alt="Foto protesis" width="300">
 </p>
-- País: Estados unidos <br>
+
+### Especificaciones
+
+- País de procedencia: Estados unidos <br>
 - Fecha de solicitud : 2022-01-11 <br>
 - Fecha de publicación: 2024-03-26 <br>
-[3] 
+[3]  
 
 
 # Lista de requerimientos
