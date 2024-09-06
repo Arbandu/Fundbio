@@ -87,6 +87,9 @@ La patente explica una prótesis transtibial unibody, fabricada en una sola piez
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/7d14fef240d0fdeb5689bcadbd822eec742344c8/Imagenes/funcionales.jpg" alt="funcionales">
 </p>
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/895c740d4aeae39553a88b5dcd3baf1cd223fdb2/Imagenes/no%20funcionales%20nuevo.jpg" alt="no funcionales">
+</p>
 
 
 # Propuesta de solución
