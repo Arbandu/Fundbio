@@ -32,7 +32,7 @@ El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis
 - Fecha de solicitud: 2020-09-30 <br>
 - Fecha de publicación: 2020-12-11 <br>
 
-##Lightweight, modular, powered transfemoral prosthesis
+## Lightweight, modular, powered transfemoral prosthesis
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/42ff391f5a5518fa9f19bc54a80dfeb4a6303812/Imagenes/Patente%20modular.jpg" alt="Parente modular" width="300">
 </p>
