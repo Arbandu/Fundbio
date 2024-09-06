@@ -30,8 +30,8 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/da8a0a84fbb7b394fb6047836830d433f25c0386/Imagenes/Jose.jpg" alt="Imagen de Jose" width="200">
 </p>
 
->Coordinador del diseño 3D y redacción.<br>
->Desarrollar un prototipo el cual se ajuste a las necesidades y supere las expectativas del usuario es mi objetivo del curso. <br>
+>Alumno de Ing. Biomédica con interés en Biomecánica y rehabilitación.<br>
+>Encargado en crear los modelos 3D a partir de los bocetos para la propuesta de solución y realizar la preimpresión utilizando "AUTODESK INVENTOR". Además de la adecuada redacción en los proyectos.<br>
 
 ## Solórzano Dávila Daniela Alessandra
 
