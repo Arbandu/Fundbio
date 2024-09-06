@@ -25,15 +25,13 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 </p>
 
 Esta patente describe un socked mejorado para prótesis de pierna, diseñado para ser más compatible y cómodo. Incorpora un sistema de varillas articuladas que permiten ajustar el encaje a diferentes tamaños de prótesis. Además, cuenta con placas de compresión y amortiguación con resortes que distribuyen mejor la presión, aumentando el confort.
-El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis de manera segura y personalizada. Está fabricado con materiales ligeros como la resina y polipropileno, e incluye orificios de ventilación para mejorar la transpirabilidad. En resumen, ofrece una solución más cómoda, adaptable y fácil de ajustar para los usuarios de prótesis de pierna. <br>
+El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis de manera segura y personalizada. Está fabricado con materiales ligeros como la resina y polipropileno, e incluye orificios de ventilación para mejorar la transpirabilidad. En resumen, ofrece una solución más cómoda, adaptable y fácil de ajustar para los usuarios de prótesis de pierna.[2] <br>
 
 ### Especificaciones
 - País de procedencia: China <br>
 - Fecha de solicitud: 2020-09-30 <br>
 - Fecha de publicación: 2020-12-11 <br>
 
-
-[2]
 # Estado del arte: Patente de modulo de utilidad 
 
 ## Unibody endoskeletal transtibial prosthetic devices and digital fabrication workflow
