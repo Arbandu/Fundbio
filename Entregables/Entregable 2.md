@@ -37,6 +37,10 @@ El sistema RevoFit ofrece un solución para los cambios de volumen del muñón a
 
 El Liner Uneo 3D 6Y512 de Ottobock es un componente protésico avanzado diseñado para amputaciones transtibiales. Fabricado en poliuretano, se ajusta anatómicamente al muñón, proporcionando comodidad al usuario mediante un acolchado estratégico en zonas sensibles como el borde de la tibia y la cabeza del peroné. El diseño permite mayor movilidad en la rodilla gracias a paredes más delgadas en la parte posterior. Además, puede combinarse con sistemas como válvulas o el sistema Harmony para optimizar su rendimiento [3]. <br>
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/0f09d94e1aa3961ca233a0e70471c99023f0a667/Imagenes/Socket%20liner%20Uneo%203d.jpg" alt="Liner uneo 3d" width="300">
+</p>
+
 ### Especificaciones del producto: <br>
 - País de procedencia: Alemania<br>
 - Medidas a partir del muñón: 50-150mm<br>
