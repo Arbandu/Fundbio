@@ -33,6 +33,9 @@ El sistema RevoFit ofrece un solución para los cambios de volumen del muñón a
 - Peso del carrete: 71 g <br> 
 - Límite de peso del usuario: 300 lb/135 kg <br>
 
+## El Liner Uneo 3D
+
+[3]
 
 
 # Estado del arte: Patentes de invención
@@ -44,7 +47,7 @@ El sistema RevoFit ofrece un solución para los cambios de volumen del muñón a
 </p>
 
 Esta patente describe un socked mejorado para prótesis de pierna, diseñado para ser más compatible y cómodo. Incorpora un sistema de varillas articuladas que permiten ajustar el encaje a diferentes tamaños de prótesis. Además, cuenta con placas de compresión y amortiguación con resortes que distribuyen mejor la presión, aumentando el confort.
-El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis de manera segura y personalizada. Está fabricado con materiales ligeros como la resina y polipropileno, e incluye orificios de ventilación para mejorar la transpirabilidad. En resumen, ofrece una solución más cómoda, adaptable y fácil de ajustar para los usuarios de prótesis de pierna [3]. <br>
+El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis de manera segura y personalizada. Está fabricado con materiales ligeros como la resina y polipropileno, e incluye orificios de ventilación para mejorar la transpirabilidad. En resumen, ofrece una solución más cómoda, adaptable y fácil de ajustar para los usuarios de prótesis de pierna [4]. <br>
 
 ### Especificaciones
 - País de procedencia: China <br>
@@ -57,7 +60,7 @@ El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis
 </p>
 
 Esta pierna prostética contiene un sistema modular en la rodilla y el tobillo. El de la rodilla le permite una rotación fácil a esa misma altura, y el tobillo utiliza un sistema de resortes para usar la fuerza del paciente para adquirir fuerza para levantar la pierna al caminar.
-Esta prótesis resulta ideal para pacientes con poca fuerza gracias a este sistema y a su poco peso [4].
+Esta prótesis resulta ideal para pacientes con poca fuerza gracias a este sistema y a su poco peso [5].
 
 ### Especificaciones
 - Pais de procedencia: Estados Unidos <br>
@@ -72,7 +75,7 @@ Esta prótesis resulta ideal para pacientes con poca fuerza gracias a este siste
   <img src="https://github.com/Arbandu/Fundbio/blob/cb55c1b59cc76600c66bb9d22a6ee974e0538b57/Imagenes/protesis%203d.jpg" alt="Foto protesis" width="300">
 </p>
 
-La patente explica una prótesis transtibial unibody, fabricada en una sola pieza mediante impresión 3D. Esta prótesis incluye un encaje personalizado para el muñón del paciente y utiliza una estructura polimérica que permite una flexión dinámica multiaxial (dorsiflexión, flexión plantar, inversión y eversión), mejorando la marcha del usuario y devolviendo energía. El diseño unibody reduce costos, tiempo de fabricación y peso en comparación con las prótesis convencionales, que son más complejas y caras. La impresión 3D y el uso de tecnologías como la fotogrametría y el escaneo 3D permiten una adaptación precisa, y la posibilidad de ajustar la rigidez en distintas áreas mejora la comodidad y el rendimiento. Además, su ligereza reduce el esfuerzo al caminar y facilita ajustes remotos mediante tecnologías simples como smartphones, lo que la hace más accesible en regiones con menos especialistas [5].  
+La patente explica una prótesis transtibial unibody, fabricada en una sola pieza mediante impresión 3D. Esta prótesis incluye un encaje personalizado para el muñón del paciente y utiliza una estructura polimérica que permite una flexión dinámica multiaxial (dorsiflexión, flexión plantar, inversión y eversión), mejorando la marcha del usuario y devolviendo energía. El diseño unibody reduce costos, tiempo de fabricación y peso en comparación con las prótesis convencionales, que son más complejas y caras. La impresión 3D y el uso de tecnologías como la fotogrametría y el escaneo 3D permiten una adaptación precisa, y la posibilidad de ajustar la rigidez en distintas áreas mejora la comodidad y el rendimiento. Además, su ligereza reduce el esfuerzo al caminar y facilita ajustes remotos mediante tecnologías simples como smartphones, lo que la hace más accesible en regiones con menos especialistas [6].  
 
 ### Especificaciones
 
@@ -99,6 +102,7 @@ La patente explica una prótesis transtibial unibody, fabricada en una sola piez
 
 [1]https://www.blatchfordmobility.com/en-us/products/feet-ankles/elan/#<br>
 [2]https://clickmedical.co/download/62820/
-[3]https://patentimages.storage.googleapis.com/47/04/f4/b40a7f982425b3/CN112057214A.pdf<br>
-[4]https://patents.google.com/patent/WO2019118534A1/en?q=(protesis+transfemoral)&q=TI%3d(Protesis+transfemoral)<br>
-[5]https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf<br>
+[3]«Liner Uneo 3D | Suavemente acolchado, con forma anatómica para una mayor comodidad», Ottobock. Accedido: 5 de septiembre de 2024. [En línea]. Disponible en: https://www.ottobock.com/es-es/product/6Y512 
+[4]https://patentimages.storage.googleapis.com/47/04/f4/b40a7f982425b3/CN112057214A.pdf<br>
+[5]https://patents.google.com/patent/WO2019118534A1/en?q=(protesis+transfemoral)&q=TI%3d(Protesis+transfemoral)<br>
+[6]https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf<br>
