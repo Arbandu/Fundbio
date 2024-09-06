@@ -31,6 +31,7 @@
 </p>
 
 >Alumno de Ing. Biomédica con interés en Biomecánica y rehabilitación.<br>
+>Rol:Diseño 3D.<br>
 >Encargado en crear los modelos 3D a partir de los bocetos para la propuesta de solución y realizar la preimpresión utilizando "AUTODESK INVENTOR". Además de la adecuada redacción en los proyectos.<br>
 
 ## Solórzano Dávila Daniela Alessandra
