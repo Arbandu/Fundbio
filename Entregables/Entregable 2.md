@@ -107,4 +107,4 @@ Una prótesis adaptada a la condición del paciente diabético (amputación pie 
 [3]«Liner Uneo 3D | Suavemente acolchado, con forma anatómica para una mayor comodidad», Ottobock. Accedido: 5 de septiembre de 2024. [En línea]. Disponible en: https://www.ottobock.com/es-es/product/6Y512 <br>
 [4]https://patentimages.storage.googleapis.com/47/04/f4/b40a7f982425b3/CN112057214A.pdf<br>
 [5]https://patents.google.com/patent/WO2019118534A1/en?q=(protesis+transfemoral)&q=TI%3d(Protesis+transfemoral)<br>
-[6]https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf<br>
+[6]D. K. Kim, "High-efficiency LED light bulb," U.S. Patent 11,938,043, Jul. 25, 2023. [Enlace: https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf]<br>
