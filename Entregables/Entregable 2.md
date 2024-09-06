@@ -32,6 +32,19 @@ El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis
 - Fecha de solicitud: 2020-09-30 <br>
 - Fecha de publicación: 2020-12-11 <br>
 
+##Lightweight, modular, powered transfemoral prosthesis
+<p align="center">
+  <img src="Placeholder width="300">
+</p>
+
+Esta pierna prostética contiene un sistema modular en la rodilla y el tobillo. El de la rodilla le permite una rotación fácil a esa misma altura, y el tobillo utiliza un sistema de resortes para usar la fuerza del paciente para adquirir fuerza para levantar la pierna al caminar.
+Esta prótesis resulta ideal para pacientes con poca fuerza gracias a este sistema y a su poco peso
+
+### Especificaciones
+- Pais de procedencia: Estados Unidos <br>
+- Fecha de solicitud: 2018-12-12 <br>
+- Fecha de publicación: 2019-06-20 <br>
+
 # Estado del arte: Patente de modulo de utilidad 
 
 ## Unibody endoskeletal transtibial prosthetic devices and digital fabrication workflow
