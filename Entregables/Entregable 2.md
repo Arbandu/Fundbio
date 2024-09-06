@@ -34,7 +34,7 @@ El encaje tiene un mecanismo de ajuste deslizante que permite fijar la prótesis
 
 ##Lightweight, modular, powered transfemoral prosthesis
 <p align="center">
-  <img src="Placeholder width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/42ff391f5a5518fa9f19bc54a80dfeb4a6303812/Imagenes/Patente%20modular.jpg alt="Parente modular" width="300">
 </p>
 
 Esta pierna prostética contiene un sistema modular en la rodilla y el tobillo. El de la rodilla le permite una rotación fácil a esa misma altura, y el tobillo utiliza un sistema de resortes para usar la fuerza del paciente para adquirir fuerza para levantar la pierna al caminar.
