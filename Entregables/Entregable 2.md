@@ -20,6 +20,7 @@ Esta prótesis de pie utiliza tecnología de microprocesador que ajusta la resis
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/efe806aa0929e58a8e04293873f703aa0f64646b/Imagenes/socked%20ajustable%201.jpg" width="300"/>
   <img src="https://github.com/Arbandu/Fundbio/blob/32ac0e925d97af29343512a8de63bac6d07c549c/Imagenes/socked%20ajustable%202.jpg" width="300"/>
+ <img src="https://github.com/Arbandu/Fundbio/blob/34935977d391e9b4b689e0e845204471903095e6/Imagenes/componentes.jpg" width="300"/> 
 </p>
 El sistema RevoFit ofrece un solución para los cambios de volumen del muñón a través de un encaje protésico ajustable que consiste solo en girar un dial (carrete), el cual ajustará ciertos paneles ubicados en el socket. El carrete incluye un sistema de cordones livianos y duraderos, con un límite de peso del usuario de 135 kg. Asimismo, este carrete puede ser utilizado en tres diseños distintos que presentan paneles situados en ciertos puntos específicos. Es importante mencionar que el diseño del socket ajustable debe ser de acuerdo a las necesidades de cada usuario, por esta razón los especialistas sugieren acudir a una cita de valoración y con ello escoger socket ideal ya sea con el método de paneles, abertura o bisagra [2].<br>
 
