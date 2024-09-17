@@ -8,7 +8,7 @@
 ## Benefícios
 ## Viabilidad técnica
 # Coherencia
-## Contexto del problema
+## Contexto del proyecto
 ## Objetivos del proyecto
 ## Justificaión del prototipo
 ## Alineación con el problema
