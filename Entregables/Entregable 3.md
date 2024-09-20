@@ -55,6 +55,7 @@ Desarrollar un socket protésico con la capacidad de emitir vibraciones a una fr
 
 ## Justificaión del prototipo
 
+El prototipo presentado es una mejora significativa a las soluciones tradicionales ya que se concentra directamente en la  prevención de la pérdida de masa muscular consiguiendo evitar la atrofia muscular y contribuyendo a que el paciente consiga una correcta fuerza muscular en el muñón. Asimismo, al activar el músculo se minimizan complicaciones secundarias como lesiones, caídas y problemas cutáneos. Además, al integrar una telerehabilitación remota optimiza el proceso de adaptación a la prótesis, permitiendo un monitoreo continuo y personalizado, lo que mejora la experiencia del paciente aumentando su compromiso en el proceso de la adaptación.
 
 ## Alineación con el problema
 
