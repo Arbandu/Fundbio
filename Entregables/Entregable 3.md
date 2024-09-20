@@ -11,6 +11,10 @@ Esto resalta la importancia de la ingeniería biomédica en el diseño, mejora y
 Controlar la disminución de masa muscular en la parte de los cuádriceps, principalmente en la zona del muñón debido a la hipotrofia muscular presentada por el paciente.<br>
 
 ## Impacto
+
+Las amputaciones tienen un impacto profundo y multifacético en la vida de los afectados.
+A nivel personal, generan cambios significativos en la independencia y la movilidad, lo que puede llevar a una disminución de la autoestima. A nivel familiar, la dinámica puede verse alterada, ya que los seres queridos deben ajustar sus roles y responsabilidades, lo que a menudo genera estrés. Socialmente, las personas amputadas pueden experimentar aislamiento y dificultades para participar en actividades comunitarias o laborales, lo que puede agravar problemas psicológicos como la depresión y la ansiedad. Además, los costos asociados con la atención médica, la rehabilitación y la adquisición de prótesis pueden ser significativos, afectando la estabilidad financiera de las familias y del sistema de salud. La rehabilitación también es crítica, ya que una adecuada alineación de prótesis y un manejo efectivo del dolor son esenciales para mejorar la movilidad y la calidad de vida. En conjunto, estos factores subrayan la necesidad de un enfoque integral en la atención a personas amputadas y la importancia de la ingeniería biomédica en el desarrollo de soluciones que mejoren su calidad de vida.
+
 # Propuesta de solución
 ## Descripción de la solución
 El paciente amputado es incapaz de llevar una vida diaria normal debido a la hipotrofia muscular que posee, además, al estar todo el día en casa, pierde la rutina de la rehabilitación al no poder asistir a sus terapias designadas. Debido a esto, se propone un socket capaz de estimular el muñón del paciente de una manera no invasiva, además, este podrá ser controlado de manera remota por un terapeuta mediante una app.
@@ -28,7 +32,7 @@ El paciente amputado es incapaz de llevar una vida diaria normal debido a la hip
 
 ## Viabilidad técnica
 - Se utilizan múltiples altavoces o bocinas alrededor de la parte inferior del socket para ejercer el estimulamiento.<br>
-- El socket será hecho con ingeniería blanda. Dentro de este habrá espacio para añadir el los altavoz o bocinas y una cápsula que 
+- El socket será hecho con ingeniería blanda. Dentro de este habrá espacio para añadir el los altavoces o bocinas y una cápsula que 
   mantenga un arduino en su lugar.<br>
 - Se podrá usar recursos para añadir las partes necesarias al costado del socket, pues al ser un dispositivo de terapia, el aspecto 
   cosmético no es una prioridad.<br>
