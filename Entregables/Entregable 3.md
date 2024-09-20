@@ -1,10 +1,13 @@
 # Problemática
 ## Contexto
+Según la Organización Mundial de la Salud (OMS), se estima que la cantidad de amputaciones que se realizan por año supera el millón a nivel global [1]. Entre los tipos de amputaciones, ya sean de miembros inferiores o superiores, un estudio del Instituto Nacional de Rehabilitación (INR) mostró que el 78.1% de las amputaciones eran de miembros inferiores, de las cuales el 54.7% fueron causadas por traumatismos y el 42.3% debido a la diabetes [2]. Las amputaciones relacionadas con la diabetes, principalmente causadas por complicaciones como la neuropatía diabética y las úlceras del pie, representan una proporción significativa de las amputaciones de miembros inferiores a nivel mundial, y se estima que hasta el 85% de estas amputaciones podrían prevenirse con cuidados adecuados [3].
+Independientemente de la causa, las amputaciones impactan profundamente a nivel personal, familiar y social, generando cambios en el entorno de los afectados, lo que puede desencadenar factores psicológicos como la depresión y la ansiedad. Estos individuos también enfrentan una pérdida de independencia, lo que puede generar negativismo en sus roles sociales y profesionales [4].
+A nivel mundial, en 2019, India presentó la mayor incidencia de amputaciones traumáticas con 2.22 millones de casos, seguida por China. En cuanto a las tasas, Nueva Zelanda mostró las cifras más altas, mientras que Corea del Norte tuvo las más bajas. Las tasas de discapacidad relacionadas con las amputaciones han variado globalmente, mostrando tendencias al alza en algunos países como Siria, mientras que, en otros, como Italia, han disminuido [5]. En amputaciones BK (debajo de la rodilla), el correcto alineamiento protésico y el tratamiento del dolor son esenciales para la rehabilitación y la mejora de la marcha, destacando el impacto en la movilidad y calidad de vida [6].<br>
+Esto resalta la importancia de la ingeniería biomédica en el diseño, mejora y creación de nuevos dispositivos como prótesis, sockets y ortesis. La creación de productos funcionales, cómodos y estéticamente aceptables es esencial para mejorar la calidad de vida de quienes han sufrido amputaciones.<br>
 
-
-Esto es importante en la ingeniería biomédica ya que tiene un rol importante a la hora del diseño, mejora y creación de nuevos dispositivos ya sean prótesis, sockets, ortesis, entre otros, ya que la creación de productos que sean funcionales, cómodas y estéticamente aceptables es esencial para mejorar la calidad de vida de las personas que han sufrido amputaciones.
 
 ## Definición del problema 
+
 Controlar la disminución de masa muscular en la parte de los cuádriceps, principalmente en la zona del muñón debido a la hipotrofia muscular presentada por el paciente.<br>
 
 ## Impacto
@@ -32,9 +35,32 @@ El paciente amputado es incapaz de llevar una vida diaria normal debido a la hip
 - Por encima del equipo existirá una tela ligera para brindar comodidad al paciente, por la cual las ondas un podran causar el estímulo.<br>
 
 # Coherencia
+
 ## Contexto del proyecto
+Dado a que nuestro usuario presenta hipotrofia en sus dos cuádriceps se ha optado por emplear un socket que tenga la capacidad emitir una frecuencia, la cual ejerza una vibración sobre el muñón con el fin de activar el tejido muscular. Ante esta problemática, esta propuesta de solución es fundamental para poder enfrentar las dificultades que conlleva la hipotrofia tales como la incapacidad para caminar, mantener el equilibrio, problemas dermatológicos y realizar actividades cotidianas de manera autónoma, todas estas dificultades generan un proceso más lento en la adaptación a la prótesis. Asimismo, esta propuesta se acopla muy bien en el entorno de la ingeniería biomédica ya que el socket formaría parte de la telerehabilitación mejorando así la interoperabilidad entre el paciente y el terapeuta. <br>
+
 ## Objetivos del proyecto
+
+### Objetivo general 
+
+Desarrollar un socket protésico con la capacidad de emitir vibraciones a una frecuencia adecuada para estimular el tejido muscular del muñón.<br>
+
+### Objetivos especificos 
+
+- Contrarrestar la pérdida de masa muscular en el muñón con la finalidad de disminuir el riesgo de lesiones, caídas y rozaduras en la 
+  piel debido a un mal ajuste del socket protésico.<br>
+
+- Implementar el socket en la telerehabilitación para una monitorización remota por parte del personal de salud, facilitando la 
+  interoperabilidad. <br>
+
 ## Justificaión del prototipo
 ## Alineación con el problema
 # Resumen
 # Referencias
+[1] K. Amaya, L. Farro, y R. Lazarte, «Resolución Directoral N.° 009-2024-SA-DG-INR». Accedido: 17 de septiembre de 2024. [En línea]. Disponible en: https://www.gob.pe/institucion/inr/normas-legales/5088554-009-2024-sa-dg-inr<br>
+[2]L. Farro, R. Tapia, L. Bautista, R. Montalvo, y H. Iriarte, «Características clínicas y demográficas del paciente amputado.», Rev Med Hered, vol. 23, n.º 4, p. 240, dic. 2012, doi: 10.20453/rmh.v23i4.845.Disponible en: http://www.scielo.org.pe/pdf/rmh/v23n4/v23n4ao4.pdf <br>
+[3]
+[4]
+[5]
+[6]
+
