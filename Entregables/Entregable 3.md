@@ -54,12 +54,12 @@ Desarrollar un socket protésico con la capacidad de emitir vibraciones a una fr
 - Contrarrestar la pérdida de masa muscular en el muñón con la finalidad de disminuir el riesgo de lesiones, caídas y rozaduras en la 
   piel debido a un mal ajuste del socket protésico.<br>
 
-- Implementar el socket en la telerehabilitación para una monitorización remota por parte del personal de salud, facilitando la 
-  interoperabilidad. <br>
+-Implementar el socket junto a la telerehabilitación [7] para una monitorización remota por parte del personal de salud, facilitando la interoperabilidad.<br>
 
 ## Justificaión del prototipo
 
-El prototipo presentado es una mejora significativa a las soluciones tradicionales ya que se concentra directamente en la  prevención de la pérdida de masa muscular consiguiendo evitar la atrofia muscular y contribuyendo a que el paciente consiga una correcta fuerza muscular en el muñón. Asimismo, al activar el músculo se minimizan complicaciones secundarias como lesiones, caídas y problemas cutáneos. Además, al integrar una telerehabilitación remota optimiza el proceso de adaptación a la prótesis, permitiendo un monitoreo continuo y personalizado, lo que mejora la experiencia del paciente aumentando su compromiso en el proceso de la adaptación.
+El prototipo presentado es una mejora significativa a las soluciones tradicionales ya que se concentra directamente en la  prevención de la pérdida de masa muscular consiguiendo evitar la atrofia muscular y contribuyendo a que el paciente consiga una correcta fuerza muscular en el muñón. Asimismo, al activar el músculo se minimizan complicaciones secundarias como lesiones, caídas y problemas cutáneos. Además, al integrar una telerehabilitación remota optimiza el traslado,si se da el caso de zonas rurales no había necesidad del traslado a la ciudad de la cita [8];proceso de adaptación a la prótesis, permitiendo un monitoreo continuo y personalizada mejorando así la experiencia del paciente aumentando su compromiso en el proceso de la adaptación.
+
 
 ## Alineación con el problema
 
@@ -82,4 +82,7 @@ Esta propuesta representa una mejora significativa en la rehabilitación de ampu
 [4] I. Font-Jimenez, M. Llauradó-Serra, À. Pallarés-Martí, y F. García-Hedrera, «Factores psicosociales implicados en la amputación. Revisión sistemática de la literatura», Aten. Primaria, vol. 48, n.o 3, pp. 207-210, mar. 2016, doi: 10.1016/j.aprim.2015.04.009.<br>
 [5] R. Birri Makota y E. Musenge, «Factors Associated With HIV Infection in Zimbabwe Over a Decade From 2005 to 2015: An Interval-Censoring Survival Analysis Approach», Front. Public Health, vol. 7, sep. 2019, doi: 10.3389/fpubh.2019.00262.<br>
 [6] «Reconstruction of traumatic and non-traumatic lower extremity defects with local or free flaps | European Surgery». Accedido: 19 de septiembre de 2024. [En línea]. Disponible en: https://link.springer.com/article/10.1007/s10353-021-00704-0<br>
+[7] G. León, "Tecnología, un punto de vista a través de la fisioterapia y rehabilitación física," Doctoral dissertation, Universidad Nacional Autónoma de México, 2021.<br>
+[8] T. J. Serna Jiménez, J. A. Giraldo Hoyos, E. Robledo Muñoz, y A. Hurtado Ocampo, «Revisión de los beneficios de la telemedicina en la rehabilitación física de pacientes con alteraciones músculo esqueléticas. Elaboración de guía para la habilitación de un servicio de telerehabilitación», 2013, Accedido: 19 de septiembre de 2024. [En línea]. Disponible en: https://repository.ces.edu.co/handle/10946/2528 
+ 
 
