@@ -54,13 +54,18 @@ Desarrollar un socket protésico con la capacidad de emitir vibraciones a una fr
   interoperabilidad. <br>
 
 ## Justificaión del prototipo
+
+
 ## Alineación con el problema
+
+Esta solución está enfocada en una de las necesidades principales de nuestro paciente la cual es poder implementarse y ejercer en la sociedad como lo hacía en su momento. Ayudando al tratamiento terapéutico dado en las terapias físicas controladas por el personal especializado, además de poder hacerlo desde la comodidad de su hogar.<br>
+
 # Resumen
 # Referencias
 [1] K. Amaya, L. Farro, y R. Lazarte, «Resolución Directoral N.° 009-2024-SA-DG-INR». Accedido: 17 de septiembre de 2024. [En línea]. Disponible en: https://www.gob.pe/institucion/inr/normas-legales/5088554-009-2024-sa-dg-inr<br>
-[2]L. Farro, R. Tapia, L. Bautista, R. Montalvo, y H. Iriarte, «Características clínicas y demográficas del paciente amputado.», Rev Med Hered, vol. 23, n.º 4, p. 240, dic. 2012, doi: 10.20453/rmh.v23i4.845.Disponible en: http://www.scielo.org.pe/pdf/rmh/v23n4/v23n4ao4.pdf <br>
-[3]
-[4]
-[5]
-[6]
+[2]L. Farro, R. Tapia, L. Bautista, R. Montalvo, y H. Iriarte, «Características clínicas y demográficas del paciente amputado.», Rev Med Hered, vol. 23, n.º 4, p. 240, dic. 2012, doi: 10.20453/rmh.v23i4.845.Disponible en: http://www.scielo.org.pe/pdf/rmh/v23n4/v23n4ao4.pdf<br>
+[3]<br>
+[4] I. Font-Jimenez, M. Llauradó-Serra, À. Pallarés-Martí, y F. García-Hedrera, «Factores psicosociales implicados en la amputación. Revisión sistemática de la literatura», Aten. Primaria, vol. 48, n.o 3, pp. 207-210, mar. 2016, doi: 10.1016/j.aprim.2015.04.009.<br>
+[5]<br>
+[6]<br>
 
