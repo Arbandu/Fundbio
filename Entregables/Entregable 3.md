@@ -1,5 +1,9 @@
 # Problemática
 ## Contexto
+
+
+Esto es importante en la ingeniería biomédica ya que tiene un rol importante a la hora del diseño, mejora y creación de nuevos dispositivos ya sean prótesis, sockets, ortesis, entre otros, ya que la creación de productos que sean funcionales, cómodas y estéticamente aceptables es esencial para mejorar la calidad de vida de las personas que han sufrido amputaciones.
+
 ## Definición del problema 
 Controlar la disminución de masa muscular en la parte de los cuádriceps, principalmente en la zona del muñón debido a la hipotrofia muscular presentada por el paciente.<br>
 
@@ -21,8 +25,8 @@ El paciente amputado es incapaz de llevar una vida diaria normal debido a la hip
 
 ## Viabilidad técnica
 - Se utilizan múltiples altavoces o bocinas alrededor de la parte inferior del socket para ejercer el estimulamiento.<br>
-- El socket será hecho con ingeniería blanda. Dentro de este habrá espacio para añadir el -DISPOSITIVO QUE EMITE ONDAS - y una cápsula 
-  que mantenga un arduino en su lugar (Necesario para la activación de las ondas).<br>
+- El socket será hecho con ingeniería blanda. Dentro de este habrá espacio para añadir el los altavoz o bocinas y una cápsula que 
+  mantenga un arduino en su lugar.<br>
 - Se podrá usar recursos para añadir las partes necesarias al costado del socket, pues al ser un dispositivo de terapia, el aspecto 
   cosmético no es una prioridad.<br>
 - Por encima del equipo existirá una tela ligera para brindar comodidad al paciente, por la cual las ondas un podran causar el estímulo.<br>
