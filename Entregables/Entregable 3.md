@@ -41,7 +41,7 @@ Dado a que nuestro usuario presenta hipotrofia en sus dos cuádriceps se ha opta
 
 ## Objetivos del proyecto
 
-<u>### Objetivo general</u>
+### Objetivo general
 
 Desarrollar un socket protésico con la capacidad de emitir vibraciones a una frecuencia adecuada para estimular el tejido muscular del muñón.<br>
 
