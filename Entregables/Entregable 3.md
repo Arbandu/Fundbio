@@ -20,7 +20,7 @@ El paciente amputado es incapaz de llevar una vida diaria normal debido a la hip
   estos, especialmente porque la hipotrofia puede causar que cambien constantemente.<br>
 
 ## Viabilidad técnica
-- (Aqui el dispositivo que mandara las ondas de sonido, perdon pero no recuerdo el nombre :(   )<br>
+- Se utilizan múltiples altavoces o bocinas alrededor de la parte inferior del socket para ejercer el estimulamiento.<br>
 - El socket será hecho con ingeniería blanda. Dentro de este habrá espacio para añadir el -DISPOSITIVO QUE EMITE ONDAS - y una cápsula 
   que mantenga un arduino en su lugar (Necesario para la activación de las ondas).<br>
 - Se podrá usar recursos para añadir las partes necesarias al costado del socket, pues al ser un dispositivo de terapia, el aspecto 
