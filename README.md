@@ -11,7 +11,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
-> Estudiante de Ingenieria Biomedica interesada en señales e imagenes <br>
+> Estudiante de Ingenieria Biomedica interesada en tejidos y biomateriales. <br>
 > Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
  el trayecto del curso.<br>
  
@@ -30,8 +30,9 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/da8a0a84fbb7b394fb6047836830d433f25c0386/Imagenes/Jose.jpg" alt="Imagen de Jose" width="200">
 </p>
 
->Coordinador del diseño 3D y redacción.<br>
->Desarrollar un prototipo el cual se ajuste a las necesidades y supere las expectativas del usuario es mi objetivo del curso. <br>
+>Alumno de Ing. Biomédica con interés en Biomecánica y rehabilitación.<br>
+>Rol:Diseño 3D.<br>
+>Encargado en crear los modelos 3D a partir de los bocetos para la propuesta de solución y realizar la preimpresión utilizando "AUTODESK INVENTOR". Además de la adecuada redacción en los proyectos.<br>
 
 ## Solórzano Dávila Daniela Alessandra
 

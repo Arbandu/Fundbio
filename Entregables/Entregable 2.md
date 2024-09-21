@@ -37,6 +37,10 @@ El sistema RevoFit ofrece un solución para los cambios de volumen del muñón a
 
 El Liner Uneo 3D 6Y512 de Ottobock es un componente protésico avanzado diseñado para amputaciones transtibiales. Fabricado en poliuretano, se ajusta anatómicamente al muñón, proporcionando comodidad al usuario mediante un acolchado estratégico en zonas sensibles como el borde de la tibia y la cabeza del peroné. El diseño permite mayor movilidad en la rodilla gracias a paredes más delgadas en la parte posterior. Además, puede combinarse con sistemas como válvulas o el sistema Harmony para optimizar su rendimiento [3]. <br>
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d80dd1cd2a211b19616d7c15c876d6c857c8af58/Imagenes/Socket%20liner%20Uneo%203d.jpg" alt="Socket liner Uneo 3d" width="300">
+</p>
+
 ### Especificaciones del producto: <br>
 - País de procedencia: Alemania<br>
 - Medidas a partir del muñón: 50-150mm<br>
@@ -102,9 +106,9 @@ La patente explica una prótesis transtibial unibody, fabricada en una sola piez
 Una prótesis adaptada a la condición del paciente diabético (amputación pie derecho BK T2), que le permita tener estabilidad al momento de sus actividades diarias.
 # Bibliografía
 
-[1]https://www.blatchfordmobility.com/en-us/products/feet-ankles/elan/#<br>
-[2]https://clickmedical.co/download/62820/
-[3]«Liner Uneo 3D | Suavemente acolchado, con forma anatómica para una mayor comodidad», Ottobock. Accedido: 5 de septiembre de 2024. [En línea]. Disponible en: https://www.ottobock.com/es-es/product/6Y512 
-[4]https://patentimages.storage.googleapis.com/47/04/f4/b40a7f982425b3/CN112057214A.pdf<br>
-[5]https://patents.google.com/patent/WO2019118534A1/en?q=(protesis+transfemoral)&q=TI%3d(Protesis+transfemoral)<br>
-[6]https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf<br>
+[1]«Elan», Elan. Accedido: 5 de septiembre de 2024. [En línea]. Disponible en: https://www.blatchfordmobility.com/en-us/products/feet-ankles/elan/ <br>
+[2]https://clickmedical.co/download/62820/<br>
+[3]«Liner Uneo 3D | Suavemente acolchado, con forma anatómica para una mayor comodidad», Ottobock. Accedido: 5 de septiembre de 2024. [En línea]. Disponible en: https://www.ottobock.com/es-es/product/6Y512 <br>
+[4]Y. Zhang y J. Li, "Novel anti-counterfeiting method using dynamic QR codes," Chinese Patent CN112057214A, Dec. 24, 2021. [Enlace: https://patentimages.storage.googleapis.com/47/04/f4/b40a7f982425b3/CN112057214A.pdf]<br>
+[5]https://patents.google.com/patent/WO2019118534A1/en?q=(protesis+transfemoral)&q=TI%3d(Protesis+transfemoral<br>
+[6]D. K. Kim, "High-efficiency LED light bulb," U.S. Patent 11,938,043, Jul. 25, 2023. [Enlace: https://patentimages.storage.googleapis.com/26/8f/b3/1fd6c887cb5405/US11938043.pdf]<br>
