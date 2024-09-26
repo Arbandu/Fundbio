@@ -1,7 +1,6 @@
 # Caja negra
 # Lista de entradas y salidas
-## entradas
-## Salidas
+## Entradas y Salidas
 # Esquema de funciones
 # Matriz morfológica
 # Tabla de valoración
