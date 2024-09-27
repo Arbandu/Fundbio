@@ -27,6 +27,7 @@
 
 # Conclusión de CS elegido
 
+La propuesta ganadora fue la número 1 ya que permite mayor conectividad y practicidad. El uso del ESP32 con wifi/bluetooth permitirá la monitorización remota y el control del sistema a través de la app. Además, al emplear el actuador “Motor Coin” proporcionaran vibraciones suaves y constantes, ideales para una rehabilitación no invasiva. De igual manera, al utilizar pilas recargables proporciona un portabilidad sin cables. En resumen, esta soluciones destaca por la combinación de portabilidad, facilidad de uso y conectividad. 
 # Bocetos
 
   <p align="center">
