@@ -38,5 +38,5 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/fbc79d3999c692de04e1349b19ded065fe49c5c0/Imagenes/descripcion%203.png" alt="Descripcion 3">
 </p>
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+  <img src="https://github.com/Arbandu/Fundbio/blob/936b84af417101ef71bfbebc3e2affa3a8a4396d/Imagenes/boceto%203.png" alt="boceto3">
 </p>
