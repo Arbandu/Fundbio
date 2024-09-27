@@ -26,7 +26,7 @@
 # Bocetos
 
   <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/ecf6b4feb0c8b75eba2e361ae8b64d0f3dde8680/Imagenes/descripcion%201.png" alt="descripcion1">
+  <img src="https://github.com/Arbandu/Fundbio/blob/ef07f227100adc764cbba0a979adb8c12650ad6e/Imagenes/descripcion1.png" alt="descripcion1">
 </p>
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/d83608ae2c1430b12096b927a5e8aef10528a720/Imagenes/boceto%201.png" alt="boceto1">
