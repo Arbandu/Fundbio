@@ -21,6 +21,10 @@
 
 # Tabla de valoración
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+</p>
+
 # Conclusión de CS elegido
 
 # Bocetos
