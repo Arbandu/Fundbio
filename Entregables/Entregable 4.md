@@ -16,7 +16,7 @@
 
 # Matriz morfológica
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
+  <img src="https://github.com/Arbandu/Fundbio/blob/045ded2c880fdcf25a4d4401c7511084270dc2f0/Imagenes/matriz.jpg" alt="matriz morfologica">
 </p>
 # Tabla de valoración
 # Comclusion de CS elegido
