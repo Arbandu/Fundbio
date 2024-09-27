@@ -35,7 +35,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/f2649d29f5624582ba1f5a1912001f09a0555d48/Imagenes/boceto%202.png" alt="boceto2">
 </p>
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+  <img src="https://github.com/Arbandu/Fundbio/blob/fbc79d3999c692de04e1349b19ded065fe49c5c0/Imagenes/descripcion%203.png" alt="Descripcion 3">
 </p>
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
