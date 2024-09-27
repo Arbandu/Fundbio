@@ -28,7 +28,7 @@
 # Conclusión de CS elegido
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4bfc69747f150749e4ce2cb5dabc627914059fd5/Imagenes/conclusion.jpg" alt="conclusion">
 </p>
 
 # Bocetos
