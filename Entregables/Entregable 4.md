@@ -11,7 +11,7 @@
 
 # Esquema de funciones
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/711f642d75482c0d3d6f13850b6195944b77c8cf/Imagenes/Esquema%20de%20funciones.jpg" alt="esquema de funciones">
+  <img src="https://github.com/Arbandu/Fundbio/blob/5383fe4e032167ff12a9dd139c34ea5ea6c303fb/Imagenes/esquema%20de%20funciones.png" alt="esquema de funciones">
 </p>
 
 # Matriz morfológica
