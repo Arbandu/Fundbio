@@ -21,16 +21,22 @@
 # Tabla de valoración
 # Comclusion de CS elegido
 # Bocetos
+
+  <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/0c302e5c7352bd796eb50176eef3f141a97f53b5/Imagenes/descripcion%201.png" alt="descripcion1">
+</p>
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
-</p><p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
-</p><p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
-</p><p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
-</p><p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
-</p><p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/2650ab24f43cc97aabdae465dda4efc38a07b575/Imagenes/Caja%20negra.png" alt="caja negra">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+</p>
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+</p>
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+</p>
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
+</p>
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a571ff90d74aa9f99d96152b1fd2345206a583c2/Imagenes/Descripcion%20entradas%20y%20salidas.png" alt="Descripcion de entradas y salidas">
 </p>
