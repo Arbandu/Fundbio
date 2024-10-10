@@ -12,8 +12,7 @@
 </p>
 
 > Estudiante de Ingenieria Biomedica interesada en tejidos y biomateriales. <br>
-> Con el rol de coordinadora general donde me comprometo a organizar el proyecto y fomentar el trabajo en mi grupo y actualizacion del git hub donde estare subiendo los avances pedidos en 
- el trayecto del curso.<br>
+> Con el rol de coordinadora general donde se compromete a organizar el proyecto y fomentar el trabajo en mi grupo, y manejar la actualización del git hub donde subirá los avances pedidos en el trayecto del curso.<br>
  
 ## Ayala Garcia Miriam Lisbeth
 
@@ -22,7 +21,7 @@
 </p>
 
 > Estudiante de Ingeniería Biomédica con interés en el área de tejidos y biomateriales.<br>
-> Mi rol en el proyecto se basa en el correcto diseño electrónico del prototipo.
+> Su rol en el proyecto se basa en el correcto diseño electrónico del prototipo. Diseñara los elementos relacionados a la electrónica y se asegurara del correcto funcionamiento del dispositivo
 
 ## Bueno Nogueira Jose David
 
@@ -31,9 +30,7 @@
 </p>
 
 >Alumno de Ing. Biomédica con interés en Biomecánica y rehabilitación.<br>
->Rol:Diseño 3D.<br>
->Encargado en crear los modelos 3D a partir de los bocetos para la propuesta de solución y realizar la preimpresión utilizando "AUTODESK INVENTOR". Además de la adecuada redacción en los proyectos.<br>
-
+>Encargado en crear los modelos 3D a partir de los bocetos para la propuesta de solución y realizar la preimpresión utilizando "OnShape". Además de la adecuada redacción en los proyectos.
 ## Solórzano Dávila Daniela Alessandra
 
 <p align="center">
@@ -41,15 +38,12 @@
 </p>
   
  > Alumna de Ing. Biomédica con interés en los Biomateriales y la electrónica <br>
- > Rol: Prototipado Electrónico <br>
- > Encargada de crear y probar los modelos preliminares del proyecto y los sistemas electrónicos antes de su producción en masa. Esto incluye el diseño de circuitos, el montaje de 
- > prototipados y la programación de los controladores. Además de participar de la Investigación a lo largo del proyecto.
-
+ > Encargada de crear y probar los modelos preliminares del proyecto y los sistemas electrónicos antes de su producción en masa 
+ > Esto incluye el diseño de circuitos, el montaje de prototipados y la programación de los controladores. Además de participar de la Investigación a lo largo del proyecto.
 ## Ugarte Yupanqui Diego Alberto
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/71983535b19b8933dee56a6a44b2b73140f1f16a/Imagenes/Diego.jpg" alt="Imagen de Diego" width="300">
 </p>
 
->Alumno de Ingeniería biomédica con interés en desarrollar códigos que soporten el desarrollo biomédico en el Perú <br>
->Encargado de manufactura digital <br>
->Encargado de la revisión de los planos del dispositivo, además de su impresión.<br>
+> Alumno de Ingeniería biomédica con interés en ingeniera clínica e ingeniera de tejidos. <br>
+> Encargado de la revisión y creacion de los planos del prototipo, además, se encarga de su correcta impresión.<br>
