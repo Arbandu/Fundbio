@@ -50,5 +50,11 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/755a5d4ce7f93536086d7e0c39bde62fc8c7184d/Imagenes/E5%20pila%202A.jpg" alt="E5 pila 2A">
 </p>
 
+- Case
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d053251bb42a13805e91b522689748052607e505/Imagenes/E5%20Case.jpg" alt="E5 Case">
+</p>
+
 - Enlace al ONSHAPE
 https://cad.onshape.com/documents/7f5cd6190207e68eb308966b/w/259f24907531f0b281496f51/e/d5315bfdbbde7eb6c919ad48
