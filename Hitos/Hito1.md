@@ -11,7 +11,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/816bd25d49e4b3f72a129216b13447c6570fe326/Imagenes/2%20Esquema%20de%20funciones.png" alt="Esquema de funciones">
 </p>  
 
  <p align="center">
