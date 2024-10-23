@@ -23,7 +23,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/88f18cd2f7b929573bdae4b0167aa63002c440ea/Imagenes/6%20Prototipo%20electronico.png" alt="Prototipo electronico">
 </p>  
 
  <p align="center">
