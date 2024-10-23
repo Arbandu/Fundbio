@@ -27,7 +27,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4d6c0e7d8423effc01cf7f6c6c615dc77ccec825/Imagenes/7%20Conclusiones.png" alt="Conclusiones">
 </p>  
 
 <p align="center">
