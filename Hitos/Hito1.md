@@ -31,5 +31,5 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/42645b6b914c7113887029b542086375bf169b6d/Imagenes/8%20Bibliograf%C3%ADa.png" alt="Bibliografia">
+  <img src="https://github.com/Arbandu/Fundbio/blob/8865545e5190fd6a5c635f16f1ef05c3e6843e1b/Imagenes/8%20Bibliografia.png" alt="Bibliografia">
 </p>  
