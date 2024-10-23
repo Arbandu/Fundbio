@@ -19,7 +19,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c054fa9892d8ce54dd14e707f1d6d81a75d1ebd7/Imagenes/5%20Dise%C3%B1o%20esquematico.png" alt="Diseño esquematico">
 </p>  
 
  <p align="center">
