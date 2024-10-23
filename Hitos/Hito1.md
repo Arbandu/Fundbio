@@ -11,7 +11,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/816bd25d49e4b3f72a129216b13447c6570fe326/Imagenes/2%20Esquema%20de%20funciones.png" alt="Esquema de funciones">
+  <img src="https://github.com/Arbandu/Fundbio/blob/675f2a84322cadb198a0edd1b8e996d002ee6b20/Imagenes/3%20Boceto.png" alt="Boceto selecionado">
 </p>  
 
  <p align="center">
