@@ -7,7 +7,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/41d602e06e5343dab5e5f782104a007a90030e1e/Imagenes/1%20Solucion%20propuesta.png" alt="Solucion propuesta">
 </p>  
 
  <p align="center">
