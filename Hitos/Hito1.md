@@ -31,5 +31,5 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/84389d893b2ed38f9879a60cc5cd5103a8aa499a/Imagenes/Amputacion%20transtibial.jpg" alt="Amputacion transtibial">
+  <img src="https://github.com/Arbandu/Fundbio/blob/5a122560c8e8e7f7435c453293feeed4a58714f4/Imagenes/8%20Bibliografia.png" alt="Bibliografia">
 </p>  
