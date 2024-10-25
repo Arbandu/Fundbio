@@ -23,6 +23,29 @@
 </p>  
 
  <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/ac8098e5508d18a7b0ab964b36b1a53bfab724a1/Imagenes/15.png" alt="Ensamble">
+</p>  
+
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+</p>  
+
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+</p>  
+
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+</p>  
+
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+</p>  
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+</p>  
+
+ <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c054fa9892d8ce54dd14e707f1d6d81a75d1ebd7/Imagenes/5%20Dise%C3%B1o%20esquematico.png" alt="Diseño esquematico">
 </p>  
 
