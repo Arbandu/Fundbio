@@ -17,7 +17,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
 </p>  
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+  <img src="https://github.com/Arbandu/Fundbio/blob/3cb745badcf81d43681a615326a90c8f342b5942/Imagenes/patentes1.png" alt="patente1">
 </p>  
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
