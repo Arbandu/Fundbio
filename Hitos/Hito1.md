@@ -114,6 +114,10 @@
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/4d6c0e7d8423effc01cf7f6c6c615dc77ccec825/Imagenes/7%20Conclusiones.png" alt="Conclusiones">
 </p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/0a84cfc3c8ea4b542e57f5ea4d438a2ab73aa224/Imagenes/conclusiones.png" alt="Conclusiones">
+</p>  
+
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/8865545e5190fd6a5c635f16f1ef05c3e6843e1b/Imagenes/8%20Bibliografia.png" alt="Bibliografia">
