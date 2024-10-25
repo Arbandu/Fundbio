@@ -22,6 +22,19 @@
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/5c187ca8d754298c1ad79c91593d129fd28dd9dc/Imagenes/patentes2.png" alt="patente2">
 </p>  
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/41d602e06e5343dab5e5f782104a007a90030e1e/Imagenes/1%20Solucion%20propuesta.png" alt="Solucion propuesta">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/41d602e06e5343dab5e5f782104a007a90030e1e/Imagenes/1%20Solucion%20propuesta.png" alt="Solucion propuesta">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/41d602e06e5343dab5e5f782104a007a90030e1e/Imagenes/1%20Solucion%20propuesta.png" alt="Solucion propuesta">
+</p>  
+
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/675f2a84322cadb198a0edd1b8e996d002ee6b20/Imagenes/3%20Boceto.png" alt="Boceto selecionado">
 </p>  
