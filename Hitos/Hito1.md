@@ -61,6 +61,9 @@
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/dfc871760e7ec1e2e679872d7f239bd03113eec4/Imagenes/27.png" alt="Imagen 4">
 </p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a4e71cc81fa24e550bd4f306203ff40ed14597ff/Imagenes/codigo.png" alt="Codigo">
+</p>  
 
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/88f18cd2f7b929573bdae4b0167aa63002c440ea/Imagenes/6%20Prototipo%20electronico.png" alt="Prototipo electronico">
