@@ -26,14 +26,14 @@
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c93557fec7ac52eeeab40eef0b45dc31eb59b881/Imagenes/problematica.png" alt="problematica">
 </p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/9a021b2ce2aa82763b01c111ecc7b249049ef80b/Imagenes/2%20Esquema%20de%20funciones.png" alt="esquema de funciones">
+</p>  
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/41d602e06e5343dab5e5f782104a007a90030e1e/Imagenes/1%20Solucion%20propuesta.png" alt="Solucion propuesta">
 </p>  
 
-<p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/9a021b2ce2aa82763b01c111ecc7b249049ef80b/Imagenes/2%20Esquema%20de%20funciones.png" alt="esquema de funciones">
-</p>  
 
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/675f2a84322cadb198a0edd1b8e996d002ee6b20/Imagenes/3%20Boceto.png" alt="Boceto selecionado">
