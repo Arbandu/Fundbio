@@ -126,5 +126,7 @@
 </p>  
 
 
-- Link del ensamble
+- Link del ensamble:
 https://cad.onshape.com/documents/7f5cd6190207e68eb308966b/w/259f24907531f0b281496f51/e/b82ef1027da7be3356b96a0a?renderMode=0&uiState=671b04de948dd62c42e572f9
+- Link del canva:
+  https://www.canva.com/design/DAGUbNBFc0k/_wIgW4pF6rRWRzZp0oSrBw/edit?utm_content=DAGUbNBFc0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
