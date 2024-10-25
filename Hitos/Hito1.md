@@ -27,6 +27,10 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/c93557fec7ac52eeeab40eef0b45dc31eb59b881/Imagenes/problematica.png" alt="problematica">
 </p>  
 <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/3671ff76d61bf84c298c6312dde5ef60b1fc76ad/Imagenes/9.png" alt="problematica">
+</p>  
+
+<p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/9a021b2ce2aa82763b01c111ecc7b249049ef80b/Imagenes/2%20Esquema%20de%20funciones.png" alt="esquema de funciones">
 </p>  
 
