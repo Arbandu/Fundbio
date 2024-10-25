@@ -48,7 +48,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/6529d27baab7ff97b833101398f526e70f494779/Imagenes/cura%20.png" alt="cura">
 </p>  
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/6529d27baab7ff97b833101398f526e70f494779/Imagenes/cura%20.png" alt="cura">
+  <img src="https://github.com/Arbandu/Fundbio/blob/6f34f6622745acc63c24639bba4f6d95db67c65f/Imagenes/cura%20socket.png" alt="cura socket">
 </p>  
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c054fa9892d8ce54dd14e707f1d6d81a75d1ebd7/Imagenes/5%20Dise%C3%B1o%20esquematico.png" alt="Diseño esquematico">
