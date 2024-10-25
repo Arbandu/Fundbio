@@ -98,6 +98,10 @@
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/8865545e5190fd6a5c635f16f1ef05c3e6843e1b/Imagenes/8%20Bibliografia.png" alt="Bibliografia">
 </p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/f7025899853f01eb64f3925d175876a3a0e8f994/Imagenes/referencias1.png" alt="Bibliografia1">
+</p>  
+
 
 - Link del ensamble
 https://cad.onshape.com/documents/7f5cd6190207e68eb308966b/w/259f24907531f0b281496f51/e/b82ef1027da7be3356b96a0a?renderMode=0&uiState=671b04de948dd62c42e572f9
