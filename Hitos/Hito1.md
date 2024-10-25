@@ -14,6 +14,10 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/675f2a84322cadb198a0edd1b8e996d002ee6b20/Imagenes/3%20Boceto.png" alt="Boceto selecionado">
 </p>  
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/74271249ef2be12f3ae357d62bf327e2cb131ac1/Imagenes/14.png" alt="Boceto">
+</p>  
+
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
 </p>  
