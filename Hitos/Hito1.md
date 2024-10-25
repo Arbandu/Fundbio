@@ -38,7 +38,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/3b5ceec8e545f37afee65bf534256ffa3b746068/Imagenes/11.png" alt="matriz1">
 </p>  
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/3b5ceec8e545f37afee65bf534256ffa3b746068/Imagenes/11.png" alt="matriz1">
+  <img src="https://github.com/Arbandu/Fundbio/blob/cb98ffcb8da876af3ceb9b349cf8a2869bf4eeed/Imagenes/12.png" alt="matriz2">
 </p>  
 
 
