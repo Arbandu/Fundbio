@@ -27,7 +27,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/c93557fec7ac52eeeab40eef0b45dc31eb59b881/Imagenes/problematica.png" alt="problematica">
 </p>  
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/3671ff76d61bf84c298c6312dde5ef60b1fc76ad/Imagenes/9.png" alt="problematica">
+  <img src="https://github.com/Arbandu/Fundbio/blob/3671ff76d61bf84c298c6312dde5ef60b1fc76ad/Imagenes/9.png" alt="solucion">
 </p>  
 
 <p align="center">
@@ -35,7 +35,10 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/41d602e06e5343dab5e5f782104a007a90030e1e/Imagenes/1%20Solucion%20propuesta.png" alt="Solucion propuesta">
+  <img src="https://github.com/Arbandu/Fundbio/blob/3b5ceec8e545f37afee65bf534256ffa3b746068/Imagenes/11.png" alt="matriz1">
+</p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/3b5ceec8e545f37afee65bf534256ffa3b746068/Imagenes/11.png" alt="matriz1">
 </p>  
 
 
