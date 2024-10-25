@@ -40,7 +40,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+  <img src="https://github.com/Arbandu/Fundbio/blob/72645686b9b560a01d1ba623a07069d945ead6dc/Imagenes/29.png" alt="Imagen del circuito">
 </p>  
 
  <p align="center">
