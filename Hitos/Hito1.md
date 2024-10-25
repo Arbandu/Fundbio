@@ -22,8 +22,25 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/c054fa9892d8ce54dd14e707f1d6d81a75d1ebd7/Imagenes/5%20Dise%C3%B1o%20esquematico.png" alt="Diseño esquematico">
 </p>  
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+</p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+</p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+</p>  
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+</p>  
+
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/88f18cd2f7b929573bdae4b0167aa63002c440ea/Imagenes/6%20Prototipo%20electronico.png" alt="Prototipo electronico">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
 </p>  
 
  <p align="center">
