@@ -45,9 +45,11 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/7524c9728a1baa9a6ee1e1d8f0e2de8dbd8cba6e/Imagenes/parametros%20de%20impresion.png" alt="parametros">
 </p>  
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/7524c9728a1baa9a6ee1e1d8f0e2de8dbd8cba6e/Imagenes/parametros%20de%20impresion.png" alt="parametros">
+  <img src="https://github.com/Arbandu/Fundbio/blob/6529d27baab7ff97b833101398f526e70f494779/Imagenes/cura%20.png" alt="cura">
 </p>  
-
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/6529d27baab7ff97b833101398f526e70f494779/Imagenes/cura%20.png" alt="cura">
+</p>  
  <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/c054fa9892d8ce54dd14e707f1d6d81a75d1ebd7/Imagenes/5%20Dise%C3%B1o%20esquematico.png" alt="Diseño esquematico">
 </p>  
