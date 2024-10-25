@@ -32,7 +32,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/5393fc22f057c7675e6478f175adfc0c623c153e/Imagenes/26.png" alt="Imagen 3">
 </p>  
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Indice">
+  <img src="https://github.com/Arbandu/Fundbio/blob/dfc871760e7ec1e2e679872d7f239bd03113eec4/Imagenes/27.png" alt="Imagen 4">
 </p>  
 
  <p align="center">
