@@ -115,8 +115,7 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/f7025899853f01eb64f3925d175876a3a0e8f994/Imagenes/referencias1.png" alt="Bibliografia1">
 </p>
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/26d4800c337cc8f05bcb9f94388358b87ed6badd/Imagenes/referencias2.png
-" alt="Bibliografia28">
+  <img src="https://github.com/Arbandu/Fundbio/blob/26d4800c337cc8f05bcb9f94388358b87ed6badd/Imagenes/referencias2.png" alt="Bibliografia28">
 </p>  
 
 
