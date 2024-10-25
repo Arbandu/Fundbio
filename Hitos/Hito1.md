@@ -42,7 +42,10 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/a0fec41d70ccb68993dc328611c2b15c995eed98/Imagenes/planos%20de%20la%20tapa.png" alt="planos de la tapa">
 </p>  
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+  <img src="https://github.com/Arbandu/Fundbio/blob/7524c9728a1baa9a6ee1e1d8f0e2de8dbd8cba6e/Imagenes/parametros%20de%20impresion.png" alt="parametros">
+</p>  
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/7524c9728a1baa9a6ee1e1d8f0e2de8dbd8cba6e/Imagenes/parametros%20de%20impresion.png" alt="parametros">
 </p>  
 
  <p align="center">
