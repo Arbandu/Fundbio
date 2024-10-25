@@ -31,7 +31,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+  <img src="https://github.com/Arbandu/Fundbio/blob/fbc389ebbef23c4668ecb9bd18bb56e54f8193f0/Imagenes/vista%20expl.png" alt="vista explocionada">
 </p>  
 
  <p align="center">
