@@ -27,7 +27,7 @@
 </p>  
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/e13daf6a9e9c63a7b676ffa6e66fb167de2c9dce/Imagenes/4%20Modelo%203D.png" alt="Modelo 3D">
+  <img src="https://github.com/Arbandu/Fundbio/blob/ab072538b5e00607a5894a7aff194d3e6d6f68b3/Imagenes/16.png" alt="Planos de la base">
 </p>  
 
  <p align="center">
