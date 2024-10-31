@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a2469a702f5e9cf299672e99260795e1ecd08fb4/Imagenes/esquema_page-0001.jpg" alt="esquema electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/7e9a567b663429aa8a4907f603a7d2658bd0bf23/Imagenes/foto%20con%20componentes.jpg" alt="circuito armado">
 </p>
 
 <p align="center">
