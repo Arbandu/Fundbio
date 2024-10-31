@@ -24,6 +24,11 @@
 
 ## Diagrama de flujo 
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/67e2099debb4c922a4e9b5f7baddaa47b60a621c/Imagenes/diagrama%20de%20flujo.jpg
+" alt="diagrama de flujo">
+</p>
+
 # Impresion 3D
 
 # Reporte de pruebas, retos y limitaciones de los componentes por separado
