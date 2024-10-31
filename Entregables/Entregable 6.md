@@ -7,5 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a2469a702f5e9cf299672e99260795e1ecd08fb4/Imagenes/esquema_page-0001.jpg" alt="esquema electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/08e82efdc09d26ba7f2edb37c0b50776e3ee240c/Imagenes/codigo%20_page-0001.jpg" alt="codigo part 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/08e82efdc09d26ba7f2edb37c0b50776e3ee240c/Imagenes/codigo%20_page-0001.jpg" alt="codigo part 1">
 </p>
