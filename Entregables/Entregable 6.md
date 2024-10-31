@@ -21,3 +21,9 @@
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/f9ab94470195a62d9bb4566b2f86622a8233d672/Imagenes/codigo%20_page-0002.jpg" alt="codigo part 2">
 </p>
+
+## Diagrama de flujo 
+
+# Impresion 3D
+
+# Reporte de pruebas, retos y limitaciones de los componentes por separado
