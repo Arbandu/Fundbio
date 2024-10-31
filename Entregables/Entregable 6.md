@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/08e82efdc09d26ba7f2edb37c0b50776e3ee240c/Imagenes/codigo%20_page-0001.jpg" alt="codigo part 1">
+  <img src="https://github.com/Arbandu/Fundbio/blob/f9ab94470195a62d9bb4566b2f86622a8233d672/Imagenes/codigo%20_page-0002.jpgg" alt="codigo part 2">
 </p>
