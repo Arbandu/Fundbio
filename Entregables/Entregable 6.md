@@ -31,7 +31,7 @@
 # Impresion 3D
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/7a7f1c8719e51de6e92d4162e619c6f60591250e/Imagenes/D-EXPL%20(1).jpg" alt="diseño esquematico electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e4e3687788efc9d5e611f69ef3cfddea3993559a/Imagenes/D-EXPL%20(1)_page-0001.jpg" alt="imagenes explosivas">
 </p>
 
 <p align="center">
