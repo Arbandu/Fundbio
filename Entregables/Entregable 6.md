@@ -39,11 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/83db9af57fde009ed140f14d3dbb75bd2b40a5e0/Imagenes/D-CASE_page-0001.jpg" alt="plano case">
 </p>
 
 # Reporte de pruebas, retos y limitaciones de los componentes por separado
