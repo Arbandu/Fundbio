@@ -42,6 +42,10 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/83db9af57fde009ed140f14d3dbb75bd2b40a5e0/Imagenes/D-CASE_page-0001.jpg" alt="plano case">
 </p>
 
+## Video 
+
+https://drive.google.com/drive/folders/16xYNoQL629r1K2JOYIU1BcKHuY0QlXW1?usp=sharing
+
 # Reporte de pruebas, retos y limitaciones de los componentes por separado
 
 ## Pruebas realizadas:
