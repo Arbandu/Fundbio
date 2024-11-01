@@ -30,6 +30,22 @@
 
 # Impresion 3D
 
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
+</p>
+
 # Reporte de pruebas, retos y limitaciones de los componentes por separado
 
 ## Pruebas realizadas:
