@@ -31,3 +31,11 @@
 # Impresion 3D
 
 # Reporte de pruebas, retos y limitaciones de los componentes por separado
+
+## Pruebas realizadas:
+El sistema funciona principalmente por la señal recibida del acelerómetro dependiendo de esta señal se activa el nivel de intensidad de vibración del motor coin. Se verificó que el sistema de alimentación de carga suministra energía suficiente para mantener al motor coin y el acelerómetro en funcionamiento.
+
+## Desafíos y Limitaciones:
+Aumentar la cantidad de motores sin sobrecargar el circuito y que no haya interferencias entre ellos. 
+Desarrollar la aplicación que proporcionará conectividad entre el socket y el terapeuta de manera remota.
+El modelo del socket al ser un modelo genérico de Grabcad no es personalizable por cada usuario
