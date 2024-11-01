@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/8ca93134f6dc4b8281dab3b73a6b32579919a6c0/Imagenes/foto%20de%20las%20conecciones.jpg" alt="diseño esquematico electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/a549ac910f9850286725b28c38e71409d47611d2/Imagenes/PLANO%20DE%20LA%20TAPA_page-0001.jpg" alt="plano tapa">
 </p>
 
 <p align="center">
