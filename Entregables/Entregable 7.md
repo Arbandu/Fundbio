@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a2469a702f5e9cf299672e99260795e1ecd08fb4/Imagenes/esquema_page-0001.jpg" alt="esquema electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/7440c646d0bed59e74343f44c916518116158720/Imagenes/imagen%20componente%201.jpg" alt="imagen base">
 </p>
 
 <p align="center">
