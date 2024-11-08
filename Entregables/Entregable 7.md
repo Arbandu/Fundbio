@@ -81,6 +81,9 @@
 
 - Link de onshape : https://cad.onshape.com/documents/7f5cd6190207e68eb308966b/w/259f24907531f0b281496f51/e/bead7f09ab5b6edb86efeb60?renderMode=0&uiState=672c199bd97823194f5d740a
 
+# Reporte de pruebas, retos y limitaciones de los componentes por separado
+
+
 # Retroalimentación
 
 ## Apariencia y Diseño:
