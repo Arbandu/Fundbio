@@ -44,5 +44,6 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/d01d1b4ac360ed843169d46a88e327f5fde858e4/Imagenes/ensamble%20nuevo.jpg" alt="imagen de las componentes puestas">
 </p>
 
+- Link de onshape : https://cad.onshape.com/documents/7f5cd6190207e68eb308966b/w/259f24907531f0b281496f51/e/bead7f09ab5b6edb86efeb60?renderMode=0&uiState=672c199bd97823194f5d740a
 
 
