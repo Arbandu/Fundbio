@@ -8,7 +8,7 @@
 
 # Impresion 3D
 
-- Correcciones realizadas
+## Correcciones realizadas
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/8805ae856a5ce55a94a976d0d1e1c13df18bd90d/Imagenes/imagen%20explosionado%20nuevo.jpg" alt="explosionado">
