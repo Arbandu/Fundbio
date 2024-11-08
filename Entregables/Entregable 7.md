@@ -22,6 +22,12 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/d2cc542d718e0541b8b4517351967947c972fd70/Imagenes/circuito%20armado.jpg" alt="nuevo circuito">
 </p>
 
+## Diagrama de flujo
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d2cc542d718e0541b8b4517351967947c972fd70/Imagenes/circuito%20armado.jpg" alt="nuevo circuito">
+</p>
+
 ## Imagenes del modelo de la aplicación
 
 <p align="center">
