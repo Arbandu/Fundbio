@@ -6,6 +6,16 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
 </p>
 
+## Código
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
+</p>
+
 ## Imagenes del modelo de la aplicación
 
 <p align="center">
