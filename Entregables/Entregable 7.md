@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a2469a702f5e9cf299672e99260795e1ecd08fb4/Imagenes/esquema_page-0001.jpg" alt="esquema electronico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c6d62e516293362502a98241c0f76478e44ee8cd/Imagenes/imagen%20componente%20ensamble%20.jpg" alt="imagen ensamble 1">
 </p>
 
 <p align="center">
