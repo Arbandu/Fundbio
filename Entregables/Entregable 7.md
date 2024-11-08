@@ -1,3 +1,7 @@
+# Hardware electrónico
+
+##Diseño esquemático del circuito electrónico
+
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
 </p>
