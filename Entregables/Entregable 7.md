@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d649637560dc46949c784a786e6c496310e7a310/Imagenes/imagen%20app%201.jpg" alt="aiamgen app 1" width="300">
 </p>
 
 <p align="center">
