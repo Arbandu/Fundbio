@@ -83,6 +83,10 @@
 
 # Reporte de pruebas, retos y limitaciones de los componentes por separado
 
+- El módulo de carga aún no se encuentra en total funcionamiento debido a la pila.
+- Los motores coin funcionan sin embargo la soldadura no es resistente.
+- Dificultad para encontrar los transistores.
+- Indagar más acerca de como conectar el código del ESP32 con el código del app inventor.
 
 # Retroalimentación
 
