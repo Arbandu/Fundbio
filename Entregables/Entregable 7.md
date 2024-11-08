@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/647f94afbf306a8534e9b5cd14f321e4bc165b52/Entregables/Entregable%207.md" alt="Imagen app 3" width="300">
 </p>
 
 <p align="center">
