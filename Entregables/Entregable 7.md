@@ -7,20 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
+  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
-</p>   
+  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
+</p>
+
 
 # Impresion 3D
 
