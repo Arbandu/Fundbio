@@ -6,6 +6,8 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
 </p>
 
+## Imagenes del modelo de la aplicación
+
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/d649637560dc46949c784a786e6c496310e7a310/Imagenes/imagen%20app%201.jpg" alt="aiamgen app 1" width="300">
 </p>
@@ -19,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/4ba15f7310cd0ebb29fcbcfcdb1dc46d3fc5ca1b/Imagenes/Franccesca.jpg" alt="Imagen de Franccesca" width="300">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d2c16bab774c8ed7aaa82ea1129f83dc04e220fb/Imagenes/imagen%20app%204.jpg" alt="Imagen app 4" width="300">
 </p>
 
 
