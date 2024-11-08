@@ -19,7 +19,7 @@
 ## Ejecución
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/316e0bf09b638c860620e50e30f94834ad8047f6/Imagenes/c%C3%B3digo%20nuevo%202.jpg" alt="nuevo codigo">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d2cc542d718e0541b8b4517351967947c972fd70/Imagenes/circuito%20armado.jpg" alt="nuevo circuito">
 </p>
 
 ## Imagenes del modelo de la aplicación
