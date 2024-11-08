@@ -65,4 +65,18 @@
 
 - Link de onshape : https://cad.onshape.com/documents/7f5cd6190207e68eb308966b/w/259f24907531f0b281496f51/e/bead7f09ab5b6edb86efeb60?renderMode=0&uiState=672c199bd97823194f5d740a
 
+# Retroalimentación
+
+## Apariencia y Diseño:
+- ¿Te parece atractivo el diseño visual del dispositivo?
+- ¿El tamaño, forma y color del dispositivo parecen adecuados?
+## Ergonomía y Comodidad:
+- ¿Consideras que las partes de contacto con el usuario se ven cómodas?
+- ¿La ubicación de los controles parece accesible y fácil de manejar?
+## Comprensión y Facilidad de Uso:
+- ¿Las funciones del dispositivo son claras?
+- ¿Te parece intuitivo el uso del dispositivo según el diseño?
+## Funcionalidad y Potenciales Problemas:
+- ¿Identificas alguna área en el diseño que podría ser problemática en uso real?
+- ¿Hay algo que cambiarías en el diseño antes de hacer una versión física?
 
