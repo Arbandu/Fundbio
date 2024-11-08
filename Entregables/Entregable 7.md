@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/14f194bcb621e22abe37a3471e288e35c0cdff08/Imagenes/nuevo%20esquema%20.jpg" alt="nuevo esquema">
+  <img src="https://github.com/Arbandu/Fundbio/blob/316e0bf09b638c860620e50e30f94834ad8047f6/Imagenes/c%C3%B3digo%20nuevo%202.jpg" alt="nuevo codigo">
 </p>
 
 ## Imagenes del modelo de la aplicación
