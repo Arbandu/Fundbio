@@ -34,8 +34,5 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/d01d1b4ac360ed843169d46a88e327f5fde858e4/Imagenes/ensamble%20nuevo.jpg" alt="imagen de las componentes puestas">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/a2469a702f5e9cf299672e99260795e1ecd08fb4/Imagenes/esquema_page-0001.jpg" alt="esquema electronico">
-</p>
 
 
