@@ -12,7 +12,7 @@
 ## Diagrama de integración: Representación gráfica (diagrama o esquema) que muestre la disposición y conexión de los componentes.
 
  <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Diagrama de integración">
+  <img src="https://github.com/Arbandu/Fundbio/blob/8dad817a1beba9b29a5770db753f6e8b04501aed/Imagenes/diagrama%20de%20integracion.jpg" alt="Diagrama de integración">
 </p>  
 
  # Proceso de Integración
