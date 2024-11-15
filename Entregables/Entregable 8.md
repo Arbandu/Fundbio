@@ -22,7 +22,7 @@ Al integrar los componentes se espera que los motores coin proporcionen una vibr
 - AMS1117: Es el regulador de voltaje que convertirá el voltaje de entrada a un voltaje estable, para así no dañar a los circuitos
 - TP4056: Este es un módulo de carga de batería LiPo. Su tarea principal es cargar de manera segura una batería LiPo, que alimentará al sistema sin necesidad de estar conectado todo el tiempo a una fuente de energía externa.
 - Batería de Litio 3.7V 720mAH: Alimentará al ESP32, a los motores de vibración y otros componentes del sistema sin la necesidad de una fuente de energía externa constante
-- App:  Controlará y gestionará el sistema de vibración de forma remota a través de Bluetooth, la app será la interfaz para interactuar con el sistema de terapia, proporcionando control y personalización.
+- App: Controlará y gestionará el sistema de vibración de forma remota a través de Bluetooth, ésta será la interfaz para interactuar con el sistema de terapia, proporcionando control y personalización.
 
 ## Interacción entre componentes: Explicar cómo se comunican o interactúan los distintos elementos.
 
