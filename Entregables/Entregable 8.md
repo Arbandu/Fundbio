@@ -52,7 +52,7 @@ Se tuvieron varios problemas, con las conexiones, con la batería, con las resis
  ## Revisión de compatibilidad y sincronización: Mostrar pruebas realizadas para verificar que los componentes funcionen en conjunto de forma fluida.
 
   <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/8dad817a1beba9b29a5770db753f6e8b04501aed/Imagenes/diagrama%20de%20integracion.jpg" alt="Diagrama de integración">
+  <img src="https://github.com/Arbandu/Fundbio/blob/d2cc542d718e0541b8b4517351967947c972fd70/Imagenes/circuito%20armado.jpg" alt="Diagrama de integración">
 </p>  
 
  # Pruebas y Verificación
