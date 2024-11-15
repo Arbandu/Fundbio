@@ -11,6 +11,10 @@
 ## Interacción entre componentes: Explicar cómo se comunican o interactúan los distintos elementos.
 ## Diagrama de integración: Representación gráfica (diagrama o esquema) que muestre la disposición y conexión de los componentes.
 
+ <p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/c4ab7309298628b1fd9f7b3699f105d812f7d14e/Imagenes/Indice.png" alt="Diagrama de integración">
+</p>  
+
  # Proceso de Integración
 
  ## Plan de integración: Explicar el plan inicial para unir los componentes, incluyendo pasos, pruebas intermedias y objetivos específicos.
