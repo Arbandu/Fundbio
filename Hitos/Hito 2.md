@@ -27,7 +27,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/8dad817a1beba9b29a5770db753f6e8b04501aed/Imagenes/diagrama%20de%20integracion.jpg" alt="Diagrama esquematico">
+  <img src="https://github.com/Arbandu/Fundbio/blob/b1e2c6c4a30eb044164f63f602202025a33fa946/Imagenes/diagrama%20esquematico.png" alt="Diagrama esquematico">
 </p>  
 
 <p align="center">
