@@ -31,7 +31,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/9279bee383e1ffa3688cd23e38573ac22d756967/Imagenes/caratula.png" alt="Presentacion">
+  <img src="https://github.com/Arbandu/Fundbio/blob/31628849b34fd75b7adab09ed5a5e5e55f20ca6a/Imagenes/Manufactura%20y%20componentes.png" alt="manufactura y componentes">
 </p>  
 
 <p align="center">
