@@ -49,3 +49,6 @@
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/ac425fe1b2e04f9e695ee8b479b05d198b5b3649/Imagenes/gracias%20h2.png" alt="gracias">
 </p>  
+
+# Link del canva
+https://www.canva.com/design/DAGXlnbtruc/Z4t5dWra3mP62Y8D8oZu2g/edit?utm_content=DAGXlnbtruc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
