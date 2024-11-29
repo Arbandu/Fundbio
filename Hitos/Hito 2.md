@@ -43,7 +43,15 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/9279bee383e1ffa3688cd23e38573ac22d756967/Imagenes/caratula.png" alt="limitaciones">
+  <img src="https://github.com/Arbandu/Fundbio/blob/74b31ebfa7d4dd9cc86fc573f83e2efc18285bb1/Imagenes/referencia.png" alt="limitaciones">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/74b31ebfa7d4dd9cc86fc573f83e2efc18285bb1/Imagenes/referencia.png" alt="referencias">
+</p>  
+
+<p align="center">
+  <img src="https://github.com/Arbandu/Fundbio/blob/74b31ebfa7d4dd9cc86fc573f83e2efc18285bb1/Imagenes/referencia.png" alt="referencias">
 </p>  
 
 <p align="center">
