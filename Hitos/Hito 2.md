@@ -39,7 +39,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/9279bee383e1ffa3688cd23e38573ac22d756967/Imagenes/caratula.png" alt="prototipo">
+  <img src="https://github.com/Arbandu/Fundbio/blob/ce5fe2a9e237e45d6d7ad1ed090810008245a40c/Imagenes/prototipo.png" alt="prototipo">
 </p>  
 
 <p align="center">
