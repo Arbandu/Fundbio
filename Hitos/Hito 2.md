@@ -43,7 +43,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/74b31ebfa7d4dd9cc86fc573f83e2efc18285bb1/Imagenes/referencia.png" alt="limitaciones">
+  <img src="https://github.com/Arbandu/Fundbio/blob/e96f75aa0955352dd4d560ed72940d60d899475b/Imagenes/limitaciones.png" alt="limitaciones">
 </p>  
 
 <p align="center">
