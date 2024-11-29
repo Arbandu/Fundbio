@@ -3,7 +3,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/66c1686311a42f5645f4238659b325d335bb1cd1/Imagenes/contenido.png" alt="contenido">
+  <img src="https://github.com/Arbandu/Fundbio/blob/6706b344a8aee9c13f91f1646fa16e79a81fecf3/Imagenes/contenido%20nuevo.png" alt="contenido">
 </p>  
 
 <p align="center">
