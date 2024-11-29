@@ -23,7 +23,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/9279bee383e1ffa3688cd23e38573ac22d756967/Imagenes/caratula.png" alt="Aplicacion">
+  <img src="https://github.com/Arbandu/Fundbio/blob/19c1d568fead9cffea7debee1da6fc9ae1e06940/Imagenes/aplicativo.png" alt="Aplicacion">
 </p>  
 
 <p align="center">
