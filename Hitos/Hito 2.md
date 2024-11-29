@@ -15,7 +15,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/9279bee383e1ffa3688cd23e38573ac22d756967/Imagenes/caratula.png" alt="boceto">
+  <img src="https://github.com/Arbandu/Fundbio/blob/53692c9274c29fa33d31ddc89a1b7b11067708ff/Imagenes/dibujo.png" alt="boceto">
 </p>  
 
 <p align="center">
