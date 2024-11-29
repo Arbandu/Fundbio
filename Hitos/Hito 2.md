@@ -50,9 +50,6 @@
   <img src="https://github.com/Arbandu/Fundbio/blob/74b31ebfa7d4dd9cc86fc573f83e2efc18285bb1/Imagenes/referencia.png" alt="referencias">
 </p>  
 
-<p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/74b31ebfa7d4dd9cc86fc573f83e2efc18285bb1/Imagenes/referencia.png" alt="referencias">
-</p>  
 
 <p align="center">
   <img src="https://github.com/Arbandu/Fundbio/blob/ac425fe1b2e04f9e695ee8b479b05d198b5b3649/Imagenes/gracias%20h2.png" alt="gracias">
