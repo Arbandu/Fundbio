@@ -7,11 +7,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/71b98655839a62f19e26b39cbb0ac82b5b189971/Imagenes/problematica%201.png" alt="problematica">
-</p>  
-
-<p align="center">
-  <img src="https://github.com/Arbandu/Fundbio/blob/71b98655839a62f19e26b39cbb0ac82b5b189971/Imagenes/problematica%201.png" alt="problematica">
+  <img src="https://github.com/Arbandu/Fundbio/blob/36e2f750797762326ef08a63717e699614ad3073/Imagenes/problematica.png" alt="problematica">
 </p>  
 
 <p align="center">
